@@ -84,14 +84,9 @@ GitHub has comprehensive tooling for collaborative projects, and WE ARE USING MO
     
 # Release process
 
-- Discussion to achieve consensus among maintainers that we're ready to release
-    - Create e.g. `0.3.0` thread in #contributors
-    - Can use a livedoc https://pad.bitlair.nl/ for **Release Notes**
-    - Ask @Contributor @Catalyst @Maintainer "Any more additions for this release?"
-- Make sure all requests are carded (issue/PR) with the appropriate milestone set (so we can see the task on the kanban)
-- MERGE-freeze
-    - At the moment, this is simply requested in #maintainers-chat
-    - TODO: To do it properly a maintainer can enforce a merge-freeze on the repo
+NOTE (21 May 2023): [Discord link](https://discord.com/channels/1092243196446249134/1097204317125091328/1109658983163244626) We will be releasing each Thursday at 21:00z
+
+- Any cards milestoned for this release not cleared get pushed forward to next milestone
 
 - Compile RELEASE-NOTES
     - On [Releases](https://github.com/Significant-Gravitas/Auto-GPT/releases) page, `Draft New Release`
@@ -102,7 +97,7 @@ GitHub has comprehensive tooling for collaborative projects, and WE ARE USING MO
     - Throw these thru GPT4 to get a bulleted list
     - Use common sense to reformulate/reorganize items
 
-- Round of testing
+- Round of testing (1h before release)
     - in #testing (in `Development` section) on the Discord:
         - Hilight @Contributor @Catalyst @Maintainer and @Windows Tester  @Linux Tester  @MacOS Tester  @Docker Tester
         - Dump RELEASE-NOTES into message
