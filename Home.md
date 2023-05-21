@@ -2,6 +2,8 @@ NOTE: The [/docs](https://docs.agpt.co/) are the documentation for AutoGPT. If y
 
 This wiki is the documentation for the AutoGPT organization / project / community maintainers.
 
+- - -
+
 # 👁️ Vision 
 
 ```
