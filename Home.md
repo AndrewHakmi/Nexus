@@ -21,16 +21,19 @@ Now the AI revolution is upon us.
 With great power comes great responsibility.  
 Be aware of your intentions, and help us build a brighter tomorrow! ☀️
 
+- - -
 
 ## 🛠️ What are we building?
 
 An autonomous agent capable of accomplishing complex tasks on its own.
 
+- - -
 
 ## 🧑‍🤝‍🧑🌍🧑‍🤝‍🧑 Who are we building this for?
 
 For our future selves.
 
+- - -
 
 ## ❓ What is AutoGPT?
 
