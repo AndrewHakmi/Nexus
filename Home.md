@@ -21,6 +21,7 @@ Now the AI revolution is upon us.
 With great power comes great responsibility.  
 Be aware of your intentions, and help us build a brighter tomorrow! ☀️
 
+
 ## 🛠️ What are we building?
 
 An autonomous agent capable of accomplishing complex tasks on its own.
@@ -28,8 +29,7 @@ An autonomous agent capable of accomplishing complex tasks on its own.
 
 ## 🧑‍🤝‍🧑🌍🧑‍🤝‍🧑 Who are we building this for?
 
-The average joe who wants to improve their life's lot.  
-The visionary, caught up in the world of _doing_, who seeks to _CREATE_.  
+For our future selves.
 
 
 ## ❓ What is AutoGPT?
