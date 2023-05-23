@@ -1,3 +1,8 @@
+🎮 Join our [Discord](https://discord.gg/autogpt) 💬
+Navigate wisely. Use the Force, it will guide you to the channel you seek.
+
+Use your common sense, and the community will celebrate your presence!
+
 This page contains information on how to install your copy of Auto-GPT.
 
 First step: Choose an environment you would like to use:
