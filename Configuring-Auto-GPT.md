@@ -16,5 +16,8 @@ If you want you can scroll through the configuration to see what more can be set
 # Step 5:
 Save and close the file
 
+<pre>
+</pre>
+***
 If you haven't used any other configuration options, you are now good to go. See the "How to run" page to have your first spin at it.
  
