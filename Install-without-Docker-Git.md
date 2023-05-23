@@ -1,6 +1,8 @@
 This page guides you through the installation without Git or Docker.
 Please keep in mind that we do NOT recommend this at this time.
 
+Note: If you're on Windows you may need to install an [MSVC library](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
+
 Step 1:
 In your browser navigate to the Auto-GPT repository
 
