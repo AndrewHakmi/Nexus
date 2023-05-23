@@ -1,3 +1,13 @@
+Catalysts are contributors that are actively helping the maintainers to maintain the repo.
+
+Qualities:
+- Common sense
+- Initiative
+- Diligence
+
+***
+
+
 # Priorities for catalyts (22 May)
 
 This week, we're focusing on ease-of-use tasks. Here's a list of things you can help with this week.
@@ -12,14 +22,6 @@ This week, we're focusing on ease-of-use tasks. Here's a list of things you can 
 ***
 
 EDIT (16 May): We're upscaling our workflow: Read [here](https://github.com/Significant-Gravitas/Auto-GPT/issues/4254)
-
-Catalysts are contributors that are actively helping the maintainers to maintain the repo.
-
-Qualities:
-- Common sense
-- Initiative
-- Diligence
-
 
 # Priorities for catalysts (16 May):
 
