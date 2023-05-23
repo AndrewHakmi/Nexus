@@ -8,7 +8,7 @@ you almost made your first step to becoming an AI-whisperer. Depending on the is
 
 Easiest is to use docker-compose.
 
-Important: Docker Compose version 1.29.0 or later is required to use version 3.9 of the Compose file format. You can check the version of Docker Compose installed on your system by running the following command:
+**Important: Docker Compose version 1.29.0 or later is required to use version 3.9 of the Compose file format.** You can check the version of Docker Compose installed on your system by running the following command:
 
 docker-compose version
 
