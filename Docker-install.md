@@ -51,4 +51,5 @@ Open the file you just created and copy the following code to it
 
 <pre>
 </pre>
+***
 This concludes installing with Docker. Continue your journey on the "Configuring Auto-GPT" page
