@@ -1,6 +1,6 @@
 # Catalyst Suggestions
 
-Name/handle, Date
+Format: Name/handle, Date
 - List Of
 - Suggestions
 - Preferably categorized
