@@ -15,5 +15,5 @@ Navigate to the folder where you want to install Auto-GPT (Note: The repository 
 Navigate to the folder where auto-gpt was installed (your_chosen_directory/Auto-GPT)
 <pre>
 </pre>
-
+***
 This concludes installing Auto-GPT through Git. Continue your Journey on the "Configuring Auto-GPT" page
