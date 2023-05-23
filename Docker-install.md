@@ -45,4 +45,4 @@ Open the file you just created and copy the following code to it
    redis:
      image: "redis/redis-stack-server:latest"`
 
-This concludes installing with Docker. Continue your journey on the "How to run" page
+This concludes installing with Docker. Continue your journey on the "Configuring Auto-GPT" page
