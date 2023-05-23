@@ -5,6 +5,7 @@ Install Docker
 
 Step 2:
 Pull the latest image from docker 
+
 `:::shell
  docker pull significantgravitas/auto-gpt`
 
