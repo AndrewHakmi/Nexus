@@ -16,6 +16,7 @@ In the folder create a new file and name it "docker-compose.yml"
 
 Step 5:
 Open the file you just created and copy the following code to it
+
 `:::yaml
  version: "3.9"
  services:
