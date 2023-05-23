@@ -60,7 +60,7 @@ source venvAutoGPT/bin/activate
 pip3 install --upgrade pip
 ```
 
-**!!! warning Due to security reasons, certain features (like Python execution) will by default be disabled when running without docker. So, even if you want to run the program outside a docker container, you currently still need docker to actually run scripts !!!**
+**⚠ warning Due to security reasons, certain features (like Python execution) will by default be disabled when running without docker. So, even if you want to run the program outside a docker container, you currently still need docker to actually run scripts ⚠**
 
 Simply run the startup script in your terminal. This will install any necessary Python packages and launch Auto-GPT.
 
