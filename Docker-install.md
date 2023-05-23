@@ -1,24 +1,25 @@
 This page wil guide you through the installation and setup for docker.
 
-Step 1: 
+# Step 1: 
 Install Docker
 
-Step 2:
+# Step 2:
 Pull the latest image from docker 
 
-`:::shell
- docker pull significantgravitas/auto-gpt`
+```shell
+ docker pull significantgravitas/auto-gpt
+```
 
-Step 3:
+# Step 3:
 Create a folder for Auto-GPT inside the container??
 
-Step 4:
+# Step 4:
 In the folder create a new file and name it "docker-compose.yml"
 
-Step 5:
+# Step 5:
 Open the file you just created and copy the following code to it
 
-`:::yaml
+```yaml
  version: "3.9"
  services:
    auto-gpt:
@@ -45,6 +46,7 @@ Open the file you just created and copy the following code to it
        #  source: ./ai_settings.yaml
        #  target: /app/ai_settings.yaml
    redis:
-     image: "redis/redis-stack-server:latest"`
+     image: "redis/redis-stack-server:latest"
+```
 
 This concludes installing with Docker. Continue your journey on the "Configuring Auto-GPT" page
