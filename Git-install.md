@@ -1,17 +1,17 @@
 This page guides you through the installation and setup with Git.
 
-Note: If you're on Windows you may need to install an [MSVC library](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
+**Note: If you're on Windows you may need to install an [MSVC library](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).**
 
-Step 1:
+# Step 1:
 Make sure you have Git properly installed on your system.
 
-Step 2: 
+# Step 2: 
 Open the command window, Bash window or Powershell window
 
-Step 3:
+# Step 3:
 Navigate to the folder where you want to install Auto-GPT (Note: The repository will create a folder Auto-GPT and clone all files to that folder)
 
-Step 4:
+# Step 4:
 Navigate to the folder where auto-gpt was installed (your_chosen_directory/Auto-GPT)
 
 This concludes installing Auto-GPT through Git. Continue your Journey on the "Configuring Auto-GPT" page
