@@ -1,6 +1,6 @@
 * [🛖 Home](Home)
 * [🧭 Orienting](Orienting)
-* [🤖 Starting with AutoGPT](Starting-with-aut-gpt)
+* [🤖 Starting with AutoGPT](Starting-with-auto-gpt)
 * [   Installing AutoGPT with Docker](docker-install)
 * [   Installing AutoGPT with Git](git-install)
 * [   Installing AutoGPT without Git/Docker](install-without-docker-git)
