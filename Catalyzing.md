@@ -8,7 +8,7 @@ Qualities:
 ***
 
 
-# Priorities for catalyts (22 May)
+# Priorities for catalysts (22 May)
 
 This week, we're focusing on ease-of-use tasks. Here's a list of things you can help with this week.
 
@@ -16,7 +16,7 @@ This week, we're focusing on ease-of-use tasks. Here's a list of things you can 
 1. Scan for unclear instructions, poorly visible links, and other stuff that might get users stuck
 1. Scan the support channel for common questions/themes that can be answered by updating the instructions
 1. Note down the found issues so we can create a report of all issues
-1. Create draft PR for common ease-of-use issues, and share it with the rest of us to comment.
+1. Create a draft PR for common ease-of-use issues, and share it with the rest of us to comment.
 1. Prepare release notes for 0.3.2, which goes out on Thursday
 
 ***
@@ -25,7 +25,7 @@ EDIT (16 May): We're upscaling our workflow: Read [here](https://github.com/Sign
 
 # Priorities for catalysts (16 May):
 
-1. broken code / bugfixes
+1. broken code/bugfixes
 
 2. high bang-for-buck features
 
