@@ -1,5 +1,7 @@
 This page guides you through the installation and setup with Git.
 
+Note: If you're on Windows you may need to install an [MSVC library](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
+
 Step 1:
 Make sure you have Git properly installed on your system.
 
