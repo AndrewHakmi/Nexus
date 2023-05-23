@@ -11,7 +11,7 @@ Pull the latest image from docker
 ```
 
 # Step 3:
-Create a folder for Auto-GPT inside the container??
+Create a folder for Auto-GPT inside the container
 
 # Step 4:
 In the folder create a new file and name it "docker-compose.yml"
