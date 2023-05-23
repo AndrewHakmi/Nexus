@@ -1,8 +1,8 @@
 ## Congratulations, 
-you almost made your first step to becoming an AI-whisperer. Depending on the istallation you have chosen, you can find the information on how to run your auto-GPT for the first time below:
+you almost made your first step to becoming an AI-whisperer. Depending on the installation you have chosen, you can find the information on how to run your auto-GPT for the first time below:
 
 > We all like to dive in, but this is an advanced alien spacecraft 🚁. 
-> Luckily our core-devs have provided a manual! Remember to check the docs folder in your installation for even more guidance 
+> Luckily our core-devs have provided a manual! Remember to check the [docs](https://docs.agpt.co) for more guidance 
 
 # With Docker:
 
