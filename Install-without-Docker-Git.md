@@ -10,4 +10,4 @@ Under the tab code (first tab) click the green button, choose local and download
 Step 3:
 After you download the zip archive, you can extract it to the desired directory
 
-This concludes the installation without using Git/Docker. Continue your journey on the "How to run" page
+This concludes the installation without using Git/Docker. Continue your journey on the "Configuring Auto-GPT" page
