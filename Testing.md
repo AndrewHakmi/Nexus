@@ -23,7 +23,7 @@ You'll receive updates and information relevant to your platform with the correc
 
 ## Testing a Pull Request
 
-Oftentimes, you're testing software that's not been released yet. You will want to be familiar with how to access the main version or the latest released version of the software to compare the before and after scenarios. For the main installation instructions, see here: https://github.com/Significant-Gravitas/AutoGPT/README.md.
+Oftentimes, you're testing software that's not been released yet. You will want to be familiar with how to access the main version or the latest released version of the software to compare the before and after scenarios. For the main installation instructions, see here: https://github.com/Significant-Gravitas/Auto-GPT/README.md.
 
 Once you know how to use the official version of AutoGPT, testing is very similar - except that you're most likely downloading a pull request. 
 
