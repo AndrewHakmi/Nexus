@@ -23,7 +23,7 @@ You'll receive updates and information relevant to your platform with the correc
 
 ## Testing a Pull Request
 
-Oftentimes, you're testing software that's not been released yet. You will want to be familiar with how to access the main version or the latest released version of the software to compare the before and after scenarios. For the main installation instructions, see here: https://github.com/Significant-Gravitas/Auto-GPT/README.md.
+Oftentimes, you're testing software that's not been released yet. You will want to be familiar with accessing the main version or the latest released version of the software to compare the before and after scenarios. For the main installation instructions, see here: https://github.com/Significant-Gravitas/Auto-GPT/blob/master/README.md
 
 Once you know how to use the official version of AutoGPT, testing is very similar - except that you're most likely downloading a pull request. 
 
@@ -32,7 +32,7 @@ How do you get this pull request? - well, it most likely will have been posted i
 Here's a simple guide on how to access a pull request and clone it to your computer:
 
 1. Use a 👍 or ✅ to notify others that you're testing. This helps the poster know that someone's on it and also helps prevent too many people from testing the same thing.
-1. Navigate to the repository's [main page on GitHub](https://github.com/Significant-Gravitas/AutoGPT/).
+1. Navigate to the repository's [main page on GitHub](https://github.com/Significant-Gravitas/Auto-GPT/).
 2. Instead of downloading the main version, Click on the "Pull requests" tab at the top.
 3. Select the pull request you're interested in.
 4. Under the "Code" dropdown, click the "Download ZIP" option.
