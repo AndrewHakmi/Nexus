@@ -13,7 +13,7 @@
 * [🧩 Challenges](Challenges)
 * [🧪 Catalyzing](Catalyzing)
   - [✉️ Catalyst Suggestions](Catalyst-Suggestions)
-  - [🛠️ How To Help w/ Testing](Help-Testing)
+* [🛠️ Testing](Testing)
 * [🧙‍♂️ Maintaining](Maintaining)
 * [💫 Architecting](Architecting)
 * [📚 Reading Group](Reading-Group)
