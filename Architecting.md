@@ -28,18 +28,20 @@ If you're working on a plugin, please bear in mind that one of our primary goals
     - Please be patient as we get the new core into shape and exit hyperdrive
 
 
-How to move forwards? How to involve?
+### How to move forwards? How to involve?
 
-### If your PR is no longer relevant, best to close it
+If your PR is no longer relevant, best to close it
 
+-or-
 
-### wait for the dust to settle
+Wait for the dust to settle
 
 - This may require further work (later) on your part to amend your PR into the new arch
 - However, this will enable us to focus on the re-arch
 
+-or-
 
-### Push for your PR to be merged into master before re-integration
+Push for your PR to be merged into master before re-integration
 
 - Once we've got a solid chassis, we'll be moving code across from the old structure to the new
 - It may make sense logistically to merge your PR before this
@@ -47,8 +49,9 @@ How to move forwards? How to involve?
 - Please try to arrive at the same decision you would if you were co-ordinating the project
 - You're invited to discuss in the Discord
 
+-or-
 
-### Engaging in the re-arch
+Engage in the re-arch
 
 - During this re-architecture phase we need senior devs.  
 
