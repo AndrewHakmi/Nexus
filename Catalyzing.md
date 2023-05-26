@@ -40,7 +40,7 @@ If you're interested to operate as a maintainer, this is a great way to onboard 
 
 > *This project is about Autonomy. That's the **Auto** in Auto-GPT, __Autonomous agents__. If we ourselves move towards autonomy, we're using our energy best. Proactive / creative wins.*
 > 
-> ~ Pi - Auto-GPT maintainer 
+> ~ Pi, Auto-GPT maintainer 
 
 ## Catalyst Tools:
 You can find serveral tools for catalyzing and maintaining [here](https://github.com/Significant-Gravitas/Nexus/wiki/Maintaining#tooling)
