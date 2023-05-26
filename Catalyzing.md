@@ -12,7 +12,7 @@ Qualities:
 
 This week, we're focusing on ease-of-use tasks. Here's a list of things you can help with this week.
 
-1. Review the documentation users get when downloading/installing AutoGPT - make suggestions on how it can be clearer. 
+1. Review the documentation users get when downloading/installing Auto-GPT - make suggestions on how it can be clearer. 
 1. Scan for unclear instructions, poorly visible links, and other stuff that might get users stuck
 1. Scan the support channel for common questions/themes that can be answered by updating the instructions
 1. Note down the found issues so we can create a report of all issues
@@ -47,9 +47,9 @@ EDIT (16 May): We're upscaling our workflow: Read [here](https://github.com/Sign
 
 NOTE: If you're interested to operate as a maintainer, please operate as a catalyst for a while (it's a great way to onboard -- to work with the maintainers and get the hang of how we do things -- we're still getting the hang of this ourselves).
 
-There's no clear black/white definition of what's involved here. Whatever catalyzes the stability / development / evolution of AutoGPT.
+There's no clear black/white definition of what's involved here. Whatever catalyzes the stability / development / evolution of Auto-GPT.
 
-This project is about Autonomy. That's the `Auto` in AutoGPT. Autonomous agents. If we ourselves move towards autonomy, we're using our energy best. Proactive / creative wins. If you find structure to be bad / missing, please work to improve it. That might involve contacting a maintainer.
+This project is about Autonomy. That's the `Auto` in Auto-GPT. Autonomous agents. If we ourselves move towards autonomy, we're using our energy best. Proactive / creative wins. If you find structure to be bad / missing, please work to improve it. That might involve contacting a maintainer.
 
 Generally catalysts have a good understanding of the project source code. The main effort is to manage our backlog of issues and PRs. As of writing we have 300 open PRs and 500 open issues. Note that you can still be super-useful helping with organization without code-level introspection.
 
