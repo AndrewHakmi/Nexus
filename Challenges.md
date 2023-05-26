@@ -2,7 +2,13 @@
 
 Interested?
 
-Join us in shaping the future of Auto-GPT by designing challenges that test its limits. Your input will be invaluable in guiding our progress and ensuring that we're on the right track. We're seeking individuals with a diverse skill set, including:
+Join us in shaping the future of Auto-GPT by designing challenges that test its limits. Your input will be invaluable in guiding our progress and ensuring that we're on the right track.
+
+> *Challenges are very powerful tools because they define the roadmap of Auto-GPT through test driven development. They are actionable and result oriented.*
+>
+> ~ MerwaneHamadi - Auto-GPT Maintainer
+
+We're seeking individuals with a diverse skill set, including:
 
 - 🎨 UX Design: Your expertise will enhance the user experience for those attempting to conquer our challenges. With your help, we'll develop a dedicated section in our wiki, and potentially even launch a standalone website.
 
