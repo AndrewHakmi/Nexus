@@ -7,13 +7,13 @@ NOTE: We're in the process of moving content from the repo's CONTRIBUTING.md to 
 
 # 🎁 Contributing
 
-😣 Larry is filing an issue. Larry is too lazy to read the [/docs](https://docs.agpt.co/). Larry is also too lazy to check for duplicates. Larry is even too lazy to talk in the Discord. Larry isn't supplying useful information in his issue. He hasn't even filled out the PR description. It's all rather a mess. Larry's issue will be closed.
+😣 Larry is filing an issue. Larry is too lazy to read the [Documentation](https://docs.agpt.co/). Larry is also too lazy to check for duplicates. Larry is even too lazy to talk in the Discord. Larry isn't supplying useful information in his issue. He hasn't even filled out the PR description. It's all rather a mess. Larry's issue will be closed.
 
 😖 Curly is making a Pull Request. He's making a minor code-change and adding some punctuation in the doc. If he's honest with himself he wants to boost his GitHub stats to show he's contributed to Auto-GPT. He's not taking on a difficult task, and his code is not bringing significant value. A Triager has to preprocess his PR, then a maintainer has to put it on the [Project Kanban](https://github.com/orgs/Significant-Gravitas/projects/1). Then it has to be reviewed by two maintainers before being merged. A core-dev could do this work in half the time it takes to process, so Curly is actually CREATING work for the coredev team. Curly's PR will be rejected.
 
 😫 Moe is also making a Pull Request. This one's big. Moe is proud of it. But he hasn't bothered to look at the roadmap or even discuss with a maintainer/catalyst on the Discord what he's planning. He didn't create a draft PR with a statement of purpose. He just dived in. Alas the core team are going in a different direction. Moe's PR won't be making it in.
 
-Don't be a stooge.
+Don't be a stooge, read the [Documentation](https://docs.agpt.co/).
 
 🦎 Bill the Lizard, on the other hand, has got it right:
 - He's quietly figured out how the code works
