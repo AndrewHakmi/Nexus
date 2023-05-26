@@ -1,9 +1,19 @@
 🧙‍♀️ Here be wizards
 
 TODO: flesh this all out
-
 - our review/merge process
 - what else?
+
+## Maintainers' Responsibilities
+
+**TL;DR:** Upkeep of the project.
+
+* Promote progress of the project towards its goals
+  * Ensure the project architecture serves the project's goals
+  * Coordinate with catalysts, contributors, and external parties
+* Gatekeep the codebase to ensure its quality
+  * Reviewing and merging pull requests
+* Publish releases
 
 ## Conventions
 
@@ -111,7 +121,7 @@ NOTE (21 May 2023): [Discord link](https://discord.com/channels/1092243196446249
 
 
 ## Tooling
-Here are some tools to make the life of catalyst / maintainer easier!
+Here are some tools to make the life of catalysts and maintainers easier!
 
 - [Refined GitHub](https://github.com/refined-github/refined-github) Chrome Extension to improve GitHub Web{UI/UX}
 
