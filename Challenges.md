@@ -1,4 +1,6 @@
-🏹 We're on the hunt for talented Challenge Creators! 🎯
+## 🏹 We're on the hunt for talented Challenge Creators! 🎯
+
+Interested?
 
 Join us in shaping the future of Auto-GPT by designing challenges that test its limits. Your input will be invaluable in guiding our progress and ensuring that we're on the right track. We're seeking individuals with a diverse skill set, including:
 
@@ -8,5 +10,5 @@ Join us in shaping the future of Auto-GPT by designing challenges that test its 
 
 - ⚙️ DevOps Skills: Experience with CI pipelines in GitHub and possibly Google Cloud Platform will be instrumental in streamlining our operations.
 
-Are you ready to play a pivotal role in Auto-GPT's journey? Apply now to become a Challenge Creator!
+Are you ready to play a pivotal role in Auto-GPT's journey?? Introduce yourself now in our [Discord](https://discord.com/channels/1092243196446249134/1092423060923101304) and become a Challenge Creator!
 🚀
