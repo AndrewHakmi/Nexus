@@ -1,11 +1,11 @@
-# STOP PRESS
+## STOP PRESS
 We're re-architecting. [HERE](https://github.com/Significant-Gravitas/Auto-GPT/wiki/Architecting)
 
 **^ READ THIS FIRST!**
 
 NOTE: We're in the process of moving content from the repo's CONTRIBUTING.md to here! To request a change to this doc, ask a maintainer on discord (@Maintainer will do it).
 
-# 🎁 Contributing
+## 🎁 Contributing
 
 😣 Larry is filing an issue. Larry is too lazy to read the [Documentation](https://docs.agpt.co/). Larry is also too lazy to check for duplicates. Larry is even too lazy to talk in the Discord. Larry isn't supplying useful information in his issue. He hasn't even filled out the PR description. It's all rather a mess. Larry's issue will be closed.
 
@@ -72,25 +72,25 @@ NOTE: Below is the (as of 4 May 2023) CONTRIBUTING.md document. CONTRIBUTING.md'
 
 - - -
 
-# Contributing to Auto-GPT
+## Contributing to Auto-GPT
 
 First of all, thank you for considering contributing to our project! We appreciate your time and effort, and we value any contribution, whether it's reporting a bug, suggesting a new feature, or submitting a pull request.
 
 This document provides guidelines and best practices to help you contribute effectively.
 
-## Code of Conduct
+### Code of Conduct
 
 By participating in this project, you agree to abide by our [Code of Conduct]. Please read it to understand the expectations we have for everyone who contributes to this project.
 
 [Code of Conduct]: https://docs.agpt.co/code-of-conduct/
 
-## 📢 A Quick Word
+### 📢 A Quick Word
 Right now we will not be accepting any Contributions that add non-essential commands to Auto-GPT.
 
 However, you absolutely can still add these commands to Auto-GPT in the form of plugins.
 Please check out this [template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template).
 
-## Getting Started
+### Getting Started
 
 1. Fork the repository and clone your fork.
 2. Create a new branch for your changes (use a descriptive name, such as `fix-bug-123` or `add-new-feature`).
