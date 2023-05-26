@@ -1,14 +1,12 @@
-# Testing AutoGPT
+## Testing AutoGPT
 
-We appreciate your interest in testing AutoGPT! Your contribution is very valuable and can help ensure we ship better software.
-
-Testing is available for all technical levels. You do not need to be a programmer. Any user of AutoGPT can be a tester.  
+We appreciate your interest in testing AutoGPT! Your contribution is very valuable and can help ensure we ship better software. Testing is available for all technical levels. You do not need to be a programmer. Any user of AutoGPT can be a tester.  
 
 Below are some tips to get you started.
 
-## Communication: Discord Testing Channels
+### Communication: Discord Testing Channels
 
-First, we recommend joining our testing community on Discord, where most of our communication occurs. To join, click on the `#testing` channel.
+We recommend joining our testing community on Discord, where most of our communication occurs. To join, click on the `#testing` channel.
 
 In this Discord, you can choose a role (or multiple roles) based on the platform you'll be testing on. To do this, use the following emoji to alert a moderator to give you the appropriate role:
 
