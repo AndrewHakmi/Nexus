@@ -1,5 +1,5 @@
 ## Catalyst priority updates
-On this page we keep track of the priorities mentioned by our lead-Catalysts. The latest priorities et will be shown on top.
+On this page we keep track of the priorities mentioned by our lead-Catalysts. The latest priorities set will be shown on top.
 
 ### Priorities for catalysts (22 May)
 
