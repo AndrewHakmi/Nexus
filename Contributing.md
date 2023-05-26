@@ -53,19 +53,18 @@ DISCLAIMER: No lizards were harmed in the development of Auto-GPT. The tale is a
 
 - - -
 
-```
-Succinct notes for contributors
-    How to contribute (github, discord)
-        First check it's wanted/useful
-            Roadmap (here)
-            Discord
-            File an issue / discussion / get approval
-            Create empty draft PR and get it on the kanban
-            Work on it, Discord is there
-            Take it OFF draft to say "ready for review"
-            Mention it in #pull-requests on Discord, can discuss, can help fast-track
-            ALSO pwuts is livestreaming each day, he may merge it live for you
-```
+Succinct notes for contributors on how to contribute (github, discord):
+
+- First check it's wanted/useful
+- Roadmap (here)
+- Discord
+- File an issue / discussion / get approval
+- Create empty draft PR and get it on the kanban
+- Work on it, Discord is there
+- Take it OFF draft to say "ready for review"
+- Mention it in #pull-requests on Discord, this shows others that your PR is ready. Your PR can be discussed 
+ and others can help you fast-track your PR. ALSO Pwuts is livestreaming each day, he may merge it live for you
+
 
 - - - 
 
