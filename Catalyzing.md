@@ -31,7 +31,7 @@ This might involve:
     - noticing devs that that merit a Contributor badge and onboarding them
     - noticing contributors that merit a Catalyst badge and onboarding them
 
-Also:
+- Also:
     - Helping to improve this wiki
     - Helping to improve the doc
     - Whatever you can think of that helps the project. If you spot something we can do / improve, let us know!
