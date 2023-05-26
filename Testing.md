@@ -1,6 +1,6 @@
 ## Testing AutoGPT
 
-We appreciate your interest in testing AutoGPT! Your contribution is very valuable and this way you can help us ensure we ship better software. Testing is available for all technical levels. You do not need to be a programmer. Any user of AutoGPT can be a tester.  
+We appreciate your interest in testing Auto-GPT! Your contribution is very valuable and this way you can help us ensure we ship better software. Testing is available for all technical levels. You do not need to be a programmer. Any user of Auto-GPT can be a tester.  
 
 Below are some tips to get you started.
 
