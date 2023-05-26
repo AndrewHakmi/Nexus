@@ -11,7 +11,7 @@ TODO: flesh this all out
 * Promote progress of the project towards its goals
   * Ensure the project architecture serves the project's goals
   * Coordinate with catalysts, contributors, and external parties
-* Gatekeep the codebase to ensure its quality
+* Gatekeep the codebase and ensure its quality
   * Reviewing and merging pull requests
 * Publish releases
 
