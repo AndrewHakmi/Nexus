@@ -2,11 +2,11 @@
 * [💬 Discord](Discord)
 * [🪵 Team structure](🪵-Team-structure)
 
-#### Help
+**Help**
 * [🤖 Using Auto-GPT](using-auto-gpt)
 * [❓ FAQ](FAQ)
 
-#### Research & Development
+**Research & Development**
 * [🎁 Contributing to Auto-GPT](Contributing)
   * [💫 Architecting](Architecting)
   * [🔌 Plugins](Plugins)
