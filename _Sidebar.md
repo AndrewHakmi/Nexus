@@ -14,5 +14,6 @@
   * [🛠️ Testing](Testing)
 * [🧪 Catalyst guide](Catalyzing)
   * [✉️ Catalyst Suggestions](Catalyst-Suggestions)
+  * [ Catalyst Priorities](Catalyst-Priorities)
 * [🧙‍♂️ Maintainer guide](Maintaining)
 * [📚 Reading Group](Reading-Group)
