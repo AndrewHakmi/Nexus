@@ -12,6 +12,7 @@
 * [🧙‍♂️ Maintaining](Maintaining)
 * [💫 Architecting](Architecting)
 * [📚 Reading Group](Reading-Group)
+* [🪵 Team structure](🪵-Team-structure)
 
 - - -
 
