@@ -6,7 +6,7 @@ Below are some tips to get you started.
 
 ## Communication: Discord Testing Channels
 
-We recommend joining our testing community on Discord, where most of our communication occurs. To join, click on the `#testing` channel.
+We recommend joining our testing community on Discord, where most of our communication occurs. To join, click [here](https://discord.com/channels/1092243196446249134/1098217450425827468).
 
 In this Discord, you can choose a role (or multiple roles) based on the platform you'll be testing on. To do this, use the following emoji to alert a moderator to give you the appropriate role:
 
