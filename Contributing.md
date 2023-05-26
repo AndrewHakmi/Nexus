@@ -55,7 +55,6 @@ DISCLAIMER: No lizards were harmed in the development of Auto-GPT. The tale is a
 ## Succinct notes for contributors on how to contribute (github, discord):
 
 - First check it's wanted/useful
-- Roadmap (here)
 - Discord
 - File an issue / discussion / get approval
 - Create empty draft PR and get it on the kanban
