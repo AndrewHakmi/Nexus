@@ -1,4 +1,7 @@
-## Priorities for catalysts (22 May)
+## Catalyst priority updates
+On this page we keep track of the priorities mentioned by our lead-Catalysts. The latest priorities et will be shown on top.
+
+### Priorities for catalysts (22 May)
 
 This week, we're focusing on ease-of-use tasks. Here's a list of things you can help with this week.
 
@@ -10,9 +13,9 @@ This week, we're focusing on ease-of-use tasks. Here's a list of things you can 
 - Prepare release notes for 0.3.2, which goes out on Thursday
 
 
-## EDIT (16 May): We're upscaling our workflow: Read [here](https://github.com/Significant-Gravitas/Auto-GPT/issues/4254)
+### EDIT (16 May): We're upscaling our workflow: Read [here](https://github.com/Significant-Gravitas/Auto-GPT/issues/4254)
 
-## Priorities for catalysts (16 May):
+### Priorities for catalysts (16 May):
 - broken code/bugfixes
 - high bang-for-buck features
 - close any clearly obsolete PR
