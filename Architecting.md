@@ -12,9 +12,8 @@ If you're interested to track progress (or involve) check out `#re-arch` channel
 If you're contributing to this project (e.g. have PRs stuck in the pipeline):
 - We're sorry to create suffering (but think this is for the Greater Good)
 - You're likely aware that the core is a mess and NEEDS re-architecting
-- So we hope you understand that this needs to be done
-- Please be patient and work with us on this
-- We're doing our best
+
+So we hope you understand that this needs to be done. Please be patient and work with us on this
 
 ## NOTE FOR PLUGIN DEVS:
 
@@ -22,26 +21,28 @@ If you already have an existing plug-in that’s affected, please message @ntind
 
 If you're working on a plugin, please bear in mind that one of our primary goals in re-architecting is to make life MUCH easier for you. We've taken aboard feedback from plugin developers. We're on it, so please give us some time!
 
+If you're enthusiastic to participate but it's all rather bewildering:
+Please connect with other devs in the Discord channels, maybe a collaboration is the way to go.
 
-- If you're enthusiastic to participate but it's all rather bewildering:
-    - Please connect with other devs in the Discord channels, and engage
-    - Please be patient as we get the new core into shape and exit hyperdrive
+-or-
+
+Please be patient as we get the new core into shape and exit hyperdrive
 
 
 ### How to move forwards? How to involve?
 
-If your PR is no longer relevant, best to close it
+#### If your PR is no longer relevant, best to close it
 
 -or-
 
-Wait for the dust to settle
+#### Wait for the dust to settle
 
 - This may require further work (later) on your part to amend your PR into the new arch
 - However, this will enable us to focus on the re-arch
 
 -or-
 
-Push for your PR to be merged into master before re-integration
+#### Push for your PR to be merged into master before re-integration
 
 - Once we've got a solid chassis, we'll be moving code across from the old structure to the new
 - It may make sense logistically to merge your PR before this
@@ -51,7 +52,7 @@ Push for your PR to be merged into master before re-integration
 
 -or-
 
-Engage in the re-arch
+#### Engage in the re-arch
 
 - During this re-architecture phase we need senior devs.  
 
