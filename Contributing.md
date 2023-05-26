@@ -21,29 +21,29 @@ Don't be a stooge, read the [Documentation](https://docs.agpt.co/).
 - A quick search of issues / PRs suggests nobody's on it
 - He has created a Draft-PR on GitHub and filled in the description
     - He's filled in the description
-    - Clean summary of the problem he's addressing
-    - Clean summary of how he's gona solve it
+    - Clean summary of the problem he is addressing
+    - Clean summary of how he is going to solve it
     - links to related resources
-    - and he's put his DiscordId in too
+    - and he has put his DiscordId in too
 - He's jumped on the Discord, and floated his proposal in the right channel (#dev-chat)
     - A maintainer has picked up and greenlighted his PR
     - Eddie the Eagle (also a quality contributor) had the same idea, but (while searching) sees Bill's draftPR and joins forces
 - Bill writes code:
-    - He uses ChatGPT/GPT4 sometimes to make sure he's using best practices
+    - He uses ChatGPT/GPT4 sometimes to make sure he is using best practices
     - Eddie helps out by making PRs against Bill's PR, which Bill reviews and merges in
-    - Bill and Eddie run the tests on the PR, so that they know it's gona pass the CI
+    - Bill and Eddie run the tests on the PR, so that they know it's going to pass the CI
     - They are careful to only focus on modifying relevant code
-        They see plenty of unrelated code that can be tidied up, but they're keeping this PR focused
-    - Wonderful, it's working!
-- Bill removes the DRAFT status of his PR, hops on the Discord and sends a message in #pull-requests to say "Chekkit y'all!"
-    - Actually he notices Pwuts is livestreaming, so hops in and they do a live review/merge.
+        They see plenty of unrelated code that can be tidied up, but they are keeping this PR focused
+    - Wonderful, it is working!
+- Bill removes the DRAFT status of his PR, hops on the Discord and sends a message in #pull-requests to say _"Chekkit y'all!"_
+    - Actually he notices _Pwuts_ is livestreaming, so hops in and they do a live review/merge.
 - Bill's fix is now in master.
     - There is jubilance and great celebration throughout the realm.
-    - Bill is offered a Contributors badge, as he fkn nailed it.
+    - Bill is offered a Contributors badge, as he nailed it.
 
 - Later Eddie eats Bill, because he is hungry and an Eagle is higher in the foodchain than a Lizard.
 
-This is sad for us as Bill is exactly the kind of energy we need. We're looking for contributors like Bill.
+This is sad for us as Bill is exactly the kind of energy we need. We are looking for contributors like Bill.
 
 🦅
 
