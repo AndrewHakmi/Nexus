@@ -1,10 +1,8 @@
-🎮 Using our Discord 
+## 🎮 Using our Discord 
 
 We use a [Discord server](https://discord.gg/autogpt) for our users and our dev-team.
 
-NOTE: If you just created your Discord account, you'll need to wait a couple of hours before you can join the server. This is an anti-bot security measure.
-
-NOTE: If you got banned due to the above, it's an IP ban, so you'll also be banned on your original account. Contact our Discord admin Fergus#0042 if you're locked out and he'll sort you out.
+> NOTE: If you just created your Discord account, you'll need to wait a couple of hours before you can join the server. This is an anti-bot security measure. If you got banned due to this, it's an IP ban, so you'll also be banned on your original account. Contact our Discord admin Fergus#0042 if you're locked out and he'll sort you out.
 
 If you're in the guild and stuck, look down the users-list for a community-mod and chat with them.
 
@@ -23,7 +21,7 @@ GitHub is great for more-persistent information.
 Do your best to figure out where to engage. We're trying to figure it out too.
 
 
-# Discord Conventions & Tips
+## Discord Conventions & Tips
 
 - If you're contributing, please align your nick-in-this-server with your GitHub username, and put your timezone  
     e.g. fooNickname -> fooNickname (myGitHubName GMT+3)  
