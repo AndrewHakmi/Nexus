@@ -4,7 +4,8 @@ We are (currently) RE-ARCHITECTING the core of AutoGPT
 
 This requires tight coordination.
 
-## NOTE (16 May): Yes, we are still moving master branch forwards while we perform this re-arch, which is expected to take a total of a month. We cannot afford for the project to stall. We're encouraging devs to jump on the Discord and help us work on cleaning up the master branch. Please put a message in #dev-autogpt (or wherever you see to be appropriate). You're encouraged to request a `Contributor` badge that allows you to talk in the #dev-contributors-chat. If you'd like to actively work on the project, you're invited to request a `Catalyst` badge. We're looking for catalysts!
+## NOTE (16 May): 
+Yes, we are still moving master branch forwards while we perform this re-arch, which is expected to take a total of a month. We cannot afford for the project to stall. We're encouraging devs to jump on the Discord and help us work on cleaning up the master branch. Please put a message in #dev-autogpt (or wherever you see to be appropriate). You're encouraged to request a `Contributor` badge that allows you to talk in the #dev-contributors-chat. If you'd like to actively work on the project, you're invited to request a `Catalyst` badge. We're looking for catalysts!
 
 If you're interested to track progress (or involve) check out `#re-arch` channel on our Discord.
 
