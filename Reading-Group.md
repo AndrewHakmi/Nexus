@@ -1,4 +1,4 @@
-# :books: AutoGPT Reading Group
+## :books: AutoGPT Reading Group
 
 The Reading Group is designed to accomplish three goals.
 
