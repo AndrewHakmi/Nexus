@@ -4,7 +4,7 @@ We appreciate your interest in testing AutoGPT! Your contribution is very valuab
 
 Below are some tips to get you started.
 
-### Communication: Discord Testing Channels
+## Communication: Discord Testing Channels
 
 We recommend joining our testing community on Discord, where most of our communication occurs. To join, click on the `#testing` channel.
 
@@ -23,9 +23,9 @@ You'll receive updates and information relevant to your platform with the correc
 
 Oftentimes, you're testing software that's not been released yet. You will want to be familiar with accessing the main version or the latest released version of the software to compare the before and after scenarios. For the main installation instructions, see here: https://github.com/Significant-Gravitas/Auto-GPT/blob/master/README.md
 
-Once you know how to use the official version of AutoGPT, testing is very similar - except that you're most likely downloading a pull request. 
+Once you know how to use the official version of Auto-GPT, testing is very similar - except that you're most likely downloading a pull request. 
 
-How do you get this pull request? - well, it most likely will have been posted in the #testing Discord channel.
+How do you get this pull request? - well, it most likely will have been posted in the [Discord testing channel](https://discord.com/channels/1092243196446249134/1098217450425827468).
 
 Here's a simple guide on how to access a pull request and clone it to your computer:
 
