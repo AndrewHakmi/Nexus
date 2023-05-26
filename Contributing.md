@@ -21,10 +21,10 @@ Don't be a stooge, read the [Documentation](https://docs.agpt.co/).
 - A quick search of issues / PRs suggests nobody's on it
 - He's created a Draft-PR on GitHub and filled in the description
     - He's filled in the description
-        - Clean summary of the problem he's addressing
-        - Clean summary of how he's gona solve it
-        - links to related resources
-        - and he's put his DiscordId in too
+    - Clean summary of the problem he's addressing
+    - Clean summary of how he's gona solve it
+    - links to related resources
+    - and he's put his DiscordId in too
 - He's jumped on the Discord, and floated his proposal in the right channel (#dev-chat)
     - A maintainer has picked up and greenlighted his PR
     - Eddie the Eagle (also a quality contributor) had the same idea, but (while searching) sees Bill's draftPR and joins forces
