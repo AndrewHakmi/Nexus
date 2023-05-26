@@ -1,4 +1,4 @@
-**Note:** The team is steadily growing and evolving. This page might be out of date in a month.
+**Note:** The team is steadily growing and evolving. This page might be out of date in a week or a month.
 
 ## Development
 The Auto-GPT development team uses the following roles:
