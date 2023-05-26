@@ -1,6 +1,6 @@
-NOTE: The [/docs](https://docs.agpt.co/) are the documentation for AutoGPT. If you need help, refer to the docs, or visit us on [Discord](https://discord.gg/autogpt).
+NOTE: The [/docs](https://docs.agpt.co/) are the documentation for Auto-GPT. If you need help, refer to the docs, or visit us on [Discord](https://discord.gg/autogpt).
 
-This wiki is the documentation for the AutoGPT organization / project / community maintainers.
+This wiki is the documentation for the Auto-GPT organization / project / community maintainers.
 
 - - -
 
@@ -14,7 +14,7 @@ This wiki is the documentation for the AutoGPT organization / project / communit
 >
 > ~ Toran, creator of Auto-GPT
 
-We build AutoGPT to better the world.  
+We build Auto-GPT to better the world.  
 The industrial revolution changed the manner in which we live.  
 Now the AI revolution is upon us.  
 
@@ -29,7 +29,7 @@ An autonomous agent capable of accomplishing complex tasks on its own.
 
 For our future selves.
 
-## ❓ What is AutoGPT?
+## ❓ What is Auto-GPT?
 
 basic simple explanation:
 
