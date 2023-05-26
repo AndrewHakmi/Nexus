@@ -12,7 +12,7 @@
   * [🔌 Plugins](Plugins)
   * [🧩 Challenges](Challenges)
   * [🛠️ Testing](Testing)
-* [🧙‍♂️ Maintaining](Maintaining)
 * [🧪 Catalyzing](Catalyzing)
   * [✉️ Catalyst Suggestions](Catalyst-Suggestions)
+* [🧙‍♂️ Maintaining](Maintaining)
 * [📚 Reading Group](Reading-Group)
