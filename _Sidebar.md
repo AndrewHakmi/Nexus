@@ -1,19 +1,18 @@
 * [🛖 Home](Home)
-* [🧭 Orienting](Orienting)
-* [🤖 Starting with AutoGPT](using-auto-gpt)
-* [🎮 Our Discord](Discord)
-* [👮‍♀️ Moderating the Discord community](Moderating)
-* [🎁 Contributing to AutoGPT](Contributing)
-* [🔌 Plugins Creators](Plugins)
-* [🧩 Challenges](Challenges)
-* [🧪 Catalyzing](Catalyzing)
-  - [✉️ Catalyst Suggestions](Catalyst-Suggestions)
-* [🛠️ Testing](Testing)
-* [🧙‍♂️ Maintaining](Maintaining)
-* [💫 Architecting](Architecting)
-* [📚 Reading Group](Reading-Group)
+* [💬 Discord](Discord)
 * [🪵 Team structure](🪵-Team-structure)
 
-- - -
+#### Help
+* [🤖 Using Auto-GPT](using-auto-gpt)
+* [❓ FAQ](FAQ)
 
-- [❓ FAQ](FAQ)
+#### Research & Development
+* [🎁 Contributing to Auto-GPT](Contributing)
+  * [💫 Architecting](Architecting)
+  * [🔌 Plugins](Plugins)
+  * [🧩 Challenges](Challenges)
+  * [🛠️ Testing](Testing)
+* [🧙‍♂️ Maintaining](Maintaining)
+* [🧪 Catalyzing](Catalyzing)
+  * [✉️ Catalyst Suggestions](Catalyst-Suggestions)
+* [📚 Reading Group](Reading-Group)
