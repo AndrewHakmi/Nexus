@@ -19,7 +19,7 @@ Don't be a stooge, read the [Documentation](https://docs.agpt.co/).
 - He's quietly figured out how the code works
 - He's spotted a problem. It's quite a lot of work even for Bill, who is a senior software engineer. So that's likely to take a load off of the shoulders of the core-team.
 - A quick search of issues / PRs suggests nobody's on it
-- He's created a Draft-PR on GitHub and filled in the description
+- He has created a Draft-PR on GitHub and filled in the description
     - He's filled in the description
     - Clean summary of the problem he's addressing
     - Clean summary of how he's gona solve it
@@ -90,7 +90,7 @@ Please check out this [template](https://github.com/Significant-Gravitas/Auto-GP
 ### Getting Started
 
 1. Fork the repository and clone your fork.
-2. Create a new branch for your changes (use a descriptive name, such as `fix-bug-123` or `add-new-feature`).
+2. Create a new branch for your changes (use a descriptive name, such as __fix-bug-123__ or __add-new-feature__).
 3. Make your changes in the new branch.
 4. Test your changes thoroughly.
 5. Commit and push your changes to your fork.
@@ -129,7 +129,7 @@ When submitting a pull request, please ensure that your changes meet the followi
 
 ### Code Formatting
 
-We use the `black` and `isort` code formatters to maintain a consistent coding style across the project. Please ensure that your code is formatted properly before submitting a pull request.
+We use the __black__ and __isort__ code formatters to maintain a consistent coding style across the project. Please ensure that your code is formatted properly before submitting a pull request.
 
 To format your code, run the following commands in the project's root directory:
 
