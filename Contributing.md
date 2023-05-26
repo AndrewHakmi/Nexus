@@ -49,11 +49,10 @@ This is sad for us as Bill is exactly the kind of energy we need. We're looking 
 
 DISCLAIMER: No lizards were harmed in the development of Auto-GPT. The tale is apocryphal. We do have a coredev named Bill, but he is not (as far as we can tell) a lizard.
 
-🎖️ This is how to get the **CONTRIBUTOR** badge in Discord -- our mergers are on the lookout for contributions that demonstrate a high level of engineering capability. If you put your Discord name in your PR we'll be able to contact you. 
+> 🎖️ This is how to get the **CONTRIBUTOR** badge in Discord -- our mergers are on the lookout for contributions that demonstrate a high level of engineering capability. If you put your Discord name in your PR we'll be able to contact you. 
 
-- - -
 
-Succinct notes for contributors on how to contribute (github, discord):
+## Succinct notes for contributors on how to contribute (github, discord):
 
 - First check it's wanted/useful
 - Roadmap (here)
@@ -66,11 +65,10 @@ Succinct notes for contributors on how to contribute (github, discord):
  and others can help you fast-track your PR. ALSO Pwuts is livestreaming each day, he may merge it live for you
 
 
-- - - 
 
-NOTE: Below is the (as of 4 May 2023) CONTRIBUTING.md document. CONTRIBUTING.md's contents are being replaced with a hyperlink to **this page**. This is because this page acts as a single source of truth and a livedoc. 
 
-- - -
+> NOTE: Below is the (as of 4 May 2023) CONTRIBUTING.md document. CONTRIBUTING.md's contents are being replaced with a hyperlink to **this page**. This is because this page acts as a single source of truth and a livedoc. 
+
 
 ## Contributing to Auto-GPT
 
