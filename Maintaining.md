@@ -5,25 +5,20 @@ TODO: flesh this all out
 - our review/merge process
 - what else?
 
-# Tribal / Conventions
+## Conventions
 
-GitHub:
-Reviews:
-- `nit:` if we're reviewing someone's code, but don't want to insist they take our suggestion
+* GitHub
+  * Assign PR to a milestone if appropriate
+  * `nit:` if we're reviewing someone's code, but don't want to insist they take our suggestion
+* Kanban
+  * Assign yourself to a card in the "In Progress" col, so people can see what you're up to.
 
-Kanban:
-- Assign yourself to a card in the "In Progress" col, so people can see what you're up to.
+## Discord
 
-GitHub PRs:
-- Assign PR to `milestone` if appropriate
-
-# Discord:
-
-One day:  
-#maintainer-updates channel:  
-Update when you clock in each day, with your TODOs.  
-As you work, maintain this message, so that when you clock out it actually shows what you did (and things still to do)
-This way we can see what everyone's up to
+* Each day, `#maintainer-updates` channel:  
+  * Post a message when you clock in, with your TODOs.  
+  * As you work, update this message, so that when you clock out it actually shows what you did (and things still to do)
+    This way we can see what everyone's up to.
 
 ### Reactions  
 Let's be creative:
@@ -33,7 +28,7 @@ Let's be creative:
 - ✅ job done (merged, finished, etc)
 - etc.
 
-# Organizing meetings
+## Organizing meetings
 
 - create a thread at the relevant place (e.g. ⁠💬・dev-contributors-chat )
 - In it Hilight e.g. @Contributor @Catalyst @Maintainer, @Catalyst @Matintainer, or just @Maintainer
@@ -44,7 +39,7 @@ Let's be creative:
 - After the meeting, summarize actionables in thread
 
 
-# GitHub
+## GitHub
 
 GitHub has comprehensive tooling for collaborative projects, and WE ARE USING MOST OF IT. 
 
@@ -55,9 +50,9 @@ GitHub has comprehensive tooling for collaborative projects, and WE ARE USING MO
         - `milestone:"v0.4.0 Release"` to see what's outstanding regarding the upcoming v0.4.0 milestone
         - `assignee:ntindle` to marvel at the insane number of cards to which Nick has self-assigned (and maybe help him out)
 
-    If you're keen to involve, this is a GREAT place to get a sense of what needs doing
+    - If you're keen to involve, this is a GREAT place to get a sense of what needs doing
 
-    By viewing the `In Progress` column you can see who's currently doing what!
+    - By viewing the `In Progress` column you can see who's currently doing what!
 
     NOTE: Cards (issues/PRs) are NOT by default added to the kanban project. So if you're wondering why a card doesn't show up on the kanban, probably this is why. If you go to the issue/PR, on the right, you should see a `Projects` that lets you choose which projects to add this card to. Just select the kanban project, and it'll show up.
 
@@ -82,7 +77,7 @@ GitHub has comprehensive tooling for collaborative projects, and WE ARE USING MO
     We've created a 0.3.2 milestone (and re-targeted all cards that were targeting this milestone to this 0.3.2 milestone)
     
     
-# Release process
+## Release process
 
 NOTE (21 May 2023): [Discord link](https://discord.com/channels/1092243196446249134/1097204317125091328/1109658983163244626) We will be releasing each Thursday at 21:00z
 
@@ -115,7 +110,7 @@ NOTE (21 May 2023): [Discord link](https://discord.com/channels/1092243196446249
 - Retire old milestone (GH-PR-page (any PR))!
 
 
-# Tooling
+## Tooling
 Here are some tools to make the life of catalyst / maintainer easier!
 
 - [Refined GitHub](https://github.com/refined-github/refined-github) Chrome Extension to improve GitHub Web{UI/UX}
