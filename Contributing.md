@@ -1,5 +1,5 @@
 ## STOP PRESS
-We're re-architecting. [HERE](https://github.com/Significant-Gravitas/Auto-GPT/wiki/Architecting)
+We're re-architecting. [HERE](https://github.com/Significant-Gravitas/Nexus/wiki/Architecting)
 
 **^ READ THIS FIRST!**
 
