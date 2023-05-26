@@ -6,7 +6,7 @@ Join us in shaping the future of Auto-GPT by designing challenges that test its 
 
 > *Challenges are very powerful tools because they define the roadmap of Auto-GPT through test driven development. They are actionable and result oriented.*
 >
-> ~ MerwaneHamadi - Auto-GPT Maintainer
+> ~ MerwaneHamadi, Auto-GPT Maintainer
 
 We're seeking individuals with a diverse skill set, including:
 
