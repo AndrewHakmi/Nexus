@@ -19,7 +19,7 @@ TODO: flesh this all out
 
 * GitHub
   * Assign PR to a milestone if appropriate
-  * `nit:` if we're reviewing someone's code, but don't want to insist they take our suggestion
+  * __nit:__ if we're reviewing someone's code, but don't want to insist they take our suggestion
 * Kanban
   * Assign yourself to a card in the "In Progress" col, so people can see what you're up to.
 
