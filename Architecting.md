@@ -1,10 +1,10 @@
-# 4 May 2023 ALERT: HyperDrive Engaged! 🚀
+## 4 May 2023 ALERT: HyperDrive Engaged! 🚀
 
 We are (currently) RE-ARCHITECTING the core of AutoGPT
 
 This requires tight coordination.
 
-NOTE (16 May): Yes, we are still moving master branch forwards while we perform this re-arch, which is expected to take a total of a month. We cannot afford for the project to stall. We're encouraging devs to jump on the Discord and help us work on cleaning up the master branch. Please put a message in #dev-autogpt (or wherever you see to be appropriate). You're encouraged to request a `Contributor` badge that allows you to talk in the #dev-contributors-chat. If you'd like to actively work on the project, you're invited to request a `Catalyst` badge. We're looking for catalysts!
+## NOTE (16 May): Yes, we are still moving master branch forwards while we perform this re-arch, which is expected to take a total of a month. We cannot afford for the project to stall. We're encouraging devs to jump on the Discord and help us work on cleaning up the master branch. Please put a message in #dev-autogpt (or wherever you see to be appropriate). You're encouraged to request a `Contributor` badge that allows you to talk in the #dev-contributors-chat. If you'd like to actively work on the project, you're invited to request a `Catalyst` badge. We're looking for catalysts!
 
 If you're interested to track progress (or involve) check out `#re-arch` channel on our Discord.
 
@@ -15,7 +15,7 @@ If you're contributing to this project (e.g. have PRs stuck in the pipeline):
 - Please be patient and work with us on this
 - We're doing our best
 
-### NOTE FOR PLUGIN DEVS:
+## NOTE FOR PLUGIN DEVS:
 
 If you already have an existing plug-in that’s affected, please message @ntindle on Discord so we can get your plugin spinning on the new architecture.
 
@@ -29,16 +29,16 @@ If you're working on a plugin, please bear in mind that one of our primary goals
 
 How to move forwards? How to involve?
 
-### 0. If your PR is no longer relevant, best to close it
+### If your PR is no longer relevant, best to close it
 
 
-### 1. wait for the dust to settle
+### wait for the dust to settle
 
 - This may require further work (later) on your part to amend your PR into the new arch
 - However, this will enable us to focus on the re-arch
 
 
-### 2. push for your PR to be merged into master before re-integration
+### Push for your PR to be merged into master before re-integration
 
 - Once we've got a solid chassis, we'll be moving code across from the old structure to the new
 - It may make sense logistically to merge your PR before this
@@ -47,7 +47,7 @@ How to move forwards? How to involve?
 - You're invited to discuss in the Discord
 
 
-### 3. Engaging in the re-arch
+### Engaging in the re-arch
 
 - During this re-architecture phase we need senior devs.  
 
