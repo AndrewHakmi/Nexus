@@ -36,11 +36,11 @@ This might involve:
     - Helping to improve the doc
     - Whatever you can think of that helps the project. If you spot something we can do / improve, let us know!
 
-If you're interested to operate as a maintainer, this is a great way to onboard -- to work with the maintainers and get the hang of how we do things -- we're still getting the hang of this ourselves).
-
 > *This project is about Autonomy. That's the **Auto** in Auto-GPT, __Autonomous agents__. If we ourselves move towards autonomy, we're using our energy best. Proactive / creative wins.*
 > 
 > ~ Pi, Auto-GPT maintainer 
+
+If you're interested to operate as a maintainer, this is a great way to onboard -- to work with the maintainers and get the hang of how we do things -- we're still getting the hang of this ourselves).
 
 ## Catalyst Tools:
 You can find serveral tools for catalyzing and maintaining [here](https://github.com/Significant-Gravitas/Nexus/wiki/Maintaining#tooling)
