@@ -1,6 +1,6 @@
 We all like to dive in. But this is an advanced alien spacecraft 🚁. Luckily our core-devs have provided a manual!
 
-[Installation guide](https://github.com/Significant-Gravitas/Auto-GPT/tree/master/docs)
+[Installation guide](https://docs.agpt.co)
 
 
 ### 🎮 Join our [**Discord**](https://discord.gg/autogpt) 💬 and stay updated on our development
