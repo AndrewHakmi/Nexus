@@ -2,6 +2,7 @@
 
 ## Development
 The Auto-GPT development team uses the following roles:
+
 * **Contributor**  
   Auto-GPT would not be where it is without all of its 295+ [Contributors]: anyone who has submitted a pull request that was merged into the codebase. We receive more contributions than we can process at the moment, but nonetheless we are very happy with the engagement and thankful for the interest and the time invested in contributing to the project.
 
