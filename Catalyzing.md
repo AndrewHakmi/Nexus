@@ -44,17 +44,3 @@ If you're interested to operate as a maintainer, this is a great way to onboard 
 
 ## Catalyst Tools:
 You can find serveral tools for catalyzing and maintaining [here](https://github.com/Significant-Gravitas/Nexus/wiki/Maintaining#tooling)
-
-
-
-
-
-
-
-(TODO) Stock messages for issues/PRs:
-- PEBCAK
-- not our problem
-- bad quality
-- PR is bad quality
-- Issue/PR is dup.
-- etc.
