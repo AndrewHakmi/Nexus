@@ -9,6 +9,11 @@ This page contains solutions to a lot of common issues and errors, try to find y
   If you have not changed anything to the workspace variables, Auto-GPT saves its files in "Path_to_Auto-GPT...\Auto_GPT\autogpt\Auto-GPT-workspace"
 </details>
 
+<details>
+  <summary>I have a paid chatGPT account, why does my Auto-GPT not work?</summary>
+  A paid openAI chatGPT account is not the same as an openAI API account. Go to <a href="platform.openai.com">OpenAI Platform</a> and make sure you have a valid billing method set.
+</details>
+
 
 ## Common Issues:
 
