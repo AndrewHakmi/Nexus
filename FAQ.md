@@ -24,3 +24,8 @@ This page contains solutions to a lot of common issues and errors, try to find y
   <summary>ImportError DLL load failed while importing:</summary>
   Make sure you have the latest <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022">Microsoft Visual C++ Redistributable</a> installed.
 </details>
+
+<details>
+  <summary>Command write_to_file returned: Error: 'PosixPath' object has no attribute 'is_relative_to':</summary>
+  Your python version is not recent enough. Update to Python 3.10.
+</details>
