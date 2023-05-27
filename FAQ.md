@@ -31,6 +31,6 @@ This page contains solutions to a lot of common issues and errors, try to find y
 </details>
 
 <details>
-  <summary>This model's maximum context length is X tokens, however you requested larger_then_X tokens</summary>
+  <summary>This model's maximum context length is "X" tokens, however you requested "larger_then_X tokens":</summary>
   Check that BROWSE_CHUNK_MAX_LENGTH is set correctly in the .env file. The default is 3000.
 <details>
