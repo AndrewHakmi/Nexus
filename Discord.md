@@ -31,19 +31,19 @@ Do your best to figure out where to engage. And do not worry, we are trying to f
     UserSettings -> Profiles -> ServerProfiles  
 
 - Please put things in the most sensible place
-    If we all do this we're golden
+    If we all do this we are golden
 
-- Code-chunks (within a line) use ` on either end of your code
+- Code-piece *(within a line)* use \` on either end of your code
 
-- Code-blocks (multiline) use ```python
-    - then ``` on a last seperate line to end the block
-    - this way you'll get beautiful syntax highlighting
+- Code-blocks *(multiline)* use \`\`\`python  
+    then \`\`\` on a last seperate line to end the block  
+    this way you will get beautiful syntax highlighting
 
 - Use Discord Timestamps for scheduling. To get current stamps [click here](https://hammertime.cyou/en-GB)
 
-- If it helps someone else, react 👍 to acknowledge you've read something
+- If it helps someone else, react 👍 to acknowledge you have read something
 
-- If you want to spawn a thread (and can't) ask a community mod
+- If you want to spawn a thread (and cannot) ask a community mod
 
 - We use ***Threads***.
     - If you're in a channel and want to see the threads, there's a #💬 icon on the top right of your Discord window.
