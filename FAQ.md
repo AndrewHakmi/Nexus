@@ -9,6 +9,9 @@ This page contains solutions to a lot of common issues and errors, try to find y
 >
 > enable view file extensions.
 
-> **openai.error.InvalidRequestError: The model: gpt-4 does not exist:**
->
-> You do not have api access to GPT-4. Set your smart_LLM_model to gpt-3.5-turbo and your token_limit to 4000 
+## Common Error Messages:
+
+<details>
+  <summary>Error: openai.error.InvalidRequestError: The model: gpt-4 does not exist:</summary>
+  You do not have api access to GPT-4. Set your smart_LLM_model to gpt-3.5-turbo and your token_limit to 4000
+</details> 
