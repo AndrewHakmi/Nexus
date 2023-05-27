@@ -4,7 +4,7 @@ This page contains solutions to a lot of common issues and errors, try to find y
 ## Common Issues:
 
 <details>
-  <summary>Auto-GPT is not seeing a file:</summary>
+  <summary>Auto-GPT does not see the file it created:</summary>
   Enable the view file extensions option in your OS.
 </details>
 
