@@ -1,6 +1,15 @@
 ## This is the newly created Frequently Asked Questions page
 This page contains solutions to a lot of common issues and errors, try to find your problem here before posting on discord or filing an issue on github.
 
+
+## Common Questions:
+
+<details>
+  <summary>Where does Auto-GPT save the files it creates?</summary>
+  If you have not changed anything to the workspace variables, Auto-GPT saves its files in "Path_to_Auto-GPT...\Auto_GPT\autogpt\Auto-GPT-workspace"
+</details>
+
+
 ## Common Issues:
 
 <details>
@@ -12,6 +21,7 @@ This page contains solutions to a lot of common issues and errors, try to find y
   <summary>Why does the Auto-GPT say that I don't have my OpenAI key set?</summary>
   Please double check that you have set your OpenAI API Key correctly in the <b>.env</b> file, and not the <b>.env.template</b> file.
 </details>
+
 
 ## Common Error Messages:
 
