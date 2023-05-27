@@ -3,13 +3,10 @@ This page contains solutions to a lot of common issues and errors, try to find y
 
 ## Common Issues:
 
-> ****
->
-> 
-
-> **Auto-GPT not seeing a file:**
->
-> enable view file extensions.
+<details>
+  <summary>Auto-GPT is not seeing a file:</summary>
+  Enable the view file extensions option in your OS.
+</details>
 
 ## Common Error Messages:
 
