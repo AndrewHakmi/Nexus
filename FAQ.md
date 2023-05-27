@@ -10,7 +10,7 @@ This page contains solutions to a lot of common issues and errors, try to find y
 
 <details>
   <summary>Why does the Auto-GPT say that I don't have my OpenAI key set?</summary>
-  Please double check that you have set your OpenAI API Key correctly in the <b>.env</b> file, and not the ".env.template" file.
+  Please double check that you have set your OpenAI API Key correctly in the <b>.env</b> file, and not the <b>.env.template</b> file.
 </details>
 
 ## Common Error Messages:
@@ -29,3 +29,8 @@ This page contains solutions to a lot of common issues and errors, try to find y
   <summary>Command write_to_file returned: Error: 'PosixPath' object has no attribute 'is_relative_to':</summary>
   Your python version is not recent enough. Update to Python 3.10.
 </details>
+
+<details>
+  <summary>This model's maximum context length is X tokens, however you requested larger_then_X tokens</summary>
+  Check that BROWSE_CHUNK_MAX_LENGTH is set correctly in the .env file. The default is 3000.
+<details>
