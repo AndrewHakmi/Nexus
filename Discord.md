@@ -45,7 +45,7 @@ Do your best to figure out where to engage. And do not worry, we are trying to f
 
 - If you want to spawn a thread (and can't) ask a community mod
 
-- We use THREADS.
+- We use ***Threads***.
     - If you're in a channel and want to see the threads, there's a #💬 icon on the top right of your Discord window.
     - Click it to see all the threads for this channel
     - You can JOIN a thread, to do this right click the thread and choose 'join'.  
