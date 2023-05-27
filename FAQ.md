@@ -17,5 +17,5 @@ This page contains solutions to a lot of common issues and errors, try to find y
 
 <details>
   <summary>ImportError DLL load failed while importing:</summary>
-  Make sure you have the latest [Microsoft Visual C++ Redistributable](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022) installed.
+  Make sure you have the latest <a href="https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170#visual-studio-2015-2017-2019-and-2022">Microsoft Visual C++ Redistributable</a> installed.
 </details>
