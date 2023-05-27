@@ -8,6 +8,11 @@ This page contains solutions to a lot of common issues and errors, try to find y
   Enable the view file extensions option in your OS.
 </details>
 
+<details>
+  <summary>Why does the Auto-GPT say that I don't have my OpenAI key set?</summary>
+  Please double check that you have set your OpenAI API Key correctly in the <b>.env</b> file, and not the ".env.template" file.
+</details>
+
 ## Common Error Messages:
 
 <details>
