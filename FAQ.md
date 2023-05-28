@@ -6,17 +6,25 @@ This page contains solutions to a lot of common issues and errors, try to find y
 
 <details>
   <summary>Where does Auto-GPT save the files it creates?</summary>
-  If you have not changed anything to the workspace variables, Auto-GPT saves its files in "Path_to_Auto-GPT...\Auto_GPT\autogpt\Auto-GPT-workspace"
+  If you have not changed anything to the workspace variables, Auto-GPT saves its files to: <b>linux</b> : ../Auto-GPT/autogpt/auto_gpt_workspace, <b>windows</b> : ..\Auto-GPT\autogpt\auto_gpt_workspace
 </details>
 
 <details>
   <summary>I have a paid chatGPT account, why does my Auto-GPT not work?</summary>
-  A paid openAI chatGPT account is not the same as an openAI API account. Go to <a href="platform.openai.com">OpenAI Platform</a> and make sure you have a valid billing method set.
+  A paid openAI chatGPT account is not the same as an openAI API account. Go to <a href="platform.openai.com"><b>OpenAI Platform</b></a> and make sure you have a valid billing method set. You will likely also want to join the gpt 4 waitlist which can be done <a href="https://openai.com/waitlist/gpt-4-api"><b>here</b></a>
 </details>
 
 <details>
   <summary>I changed my <b>.env</b> file and saved it, but why does Auto-GPT still not work?</summary>
-  Double check your<b>.env</b> file and make sure that the lines you are using do not contain a <b>#</b> and a space at the beginning of the line.
+  Double check your<b>.env</b> file and make sure that the lines you are using do not contain a <b>#</b> and a space at the beginning of the line. It should look like this :<br>
+#########<br>
+### LLM PROVIDER<br>
+#########<br>
+OPENAI_API_KEY=your-key-here-no-quotes<br>
+TEMPERATURE=.2<br>
+# USE_AZURE=False<br>
+### AZURE<br>
+# moved to azure.yaml.template<br>
 </details>
 
 
