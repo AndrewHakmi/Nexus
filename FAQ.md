@@ -14,6 +14,11 @@ This page contains solutions to a lot of common issues and errors, try to find y
   A paid openAI chatGPT account is not the same as an openAI API account. Go to <a href="platform.openai.com">OpenAI Platform</a> and make sure you have a valid billing method set.
 </details>
 
+<details>
+  <summary>I changed my <b>.env</b> file and saved it, but why does Auto-GPT still not work?</summary>
+  Double check your<b>.env</b> file and make sure that the lines you are using do not contain a <b>#</b> and a space at the beginning of the line.
+</details>
+
 
 ## Common Issues:
 
