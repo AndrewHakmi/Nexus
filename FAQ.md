@@ -6,7 +6,7 @@ This page contains solutions to a lot of common issues and errors, try to find y
 
 <details>
   <summary>Where does Auto-GPT save the files it creates?</summary>
-  If you have not changed anything to the workspace variables, Auto-GPT saves its files to:<br><b>linux</b> : ../Auto-GPT/autogpt/auto_gpt_workspace<br><b>windows</b> : ..\Auto-GPT\autogpt\auto_gpt_workspace<br><b>Mac</b> : ../\Auto-GPT\autogpt\auto_gpt_workspace
+  If you have not changed anything to the workspace variables, Auto-GPT saves its files to:<br><b>linux</b> : ..\Auto-GPT\autogpt\auto_gpt_workspace<br><b>windows</b> : ..\Auto-GPT\autogpt\auto_gpt_workspace<br><b>Mac</b> : ..\Auto-GPT\autogpt\auto_gpt_workspace
 </details>
 
 <details>
