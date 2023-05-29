@@ -50,10 +50,10 @@ This page contains solutions to a lot of common issues and errors, try to find y
 
 <details>
   <summary>python -m autogpt does not work:</summary>
-  Use the following command in your Auto-GPT folder:
-  <b>Mac:</b> ./run.sh 
-  <b>Linux:</b> ./run.sh 
-  <b>Windows:</b> .\run.bat
+  Use the following command in your Auto-GPT folder:<br>
+  <b>Mac:</b> ./run.sh <br>
+  <b>Linux:</b> ./run.sh <br>
+  <b>Windows:</b> .\run.bat<br>
 </details>
 
 ## Common Error Messages:
