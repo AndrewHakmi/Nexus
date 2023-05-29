@@ -48,6 +48,13 @@ This page contains solutions to a lot of common issues and errors, try to find y
   # USE_AZURE=False<br>
 </details>
 
+<details>
+  <summary>python -m autogpt does not work:</summary>
+  Use the following command in your Auto-GPT folder:
+  <b>Mac:</b> ./run.sh 
+  <b>Linux:</b> ./run.sh 
+  <b>Windows:</b> .\run.bat
+</details>
 
 ## Common Error Messages:
 
