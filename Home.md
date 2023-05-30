@@ -1,7 +1,7 @@
 
 ![logo](https://news.agpt.co/wp-content/uploads/2023/04/Logo_-_Auto_GPT-B-1200x544.png)
 
-<p style="font-size: 24px;">This wiki is the documentation for the Auto-GPT organization / project / community maintainers.</p>
+****This wiki is the documentation for the Auto-GPT organization / project / community maintainers.****
 
 NOTE: The documentation for Auto-GPT itself can be found **[here](https://docs.agpt.co/)**. If you need help, refer to the documentation, or visit us on [Discord](https://discord.gg/autogpt).
 
@@ -9,7 +9,7 @@ NOTE: The documentation for Auto-GPT itself can be found **[here](https://docs.a
 
 - - -
 
-## 👁️ Vision
+## 👁️ Our Vision
 
 > *We tend to define ourselves by what we DO.
   And this is crazy if you think about it.
