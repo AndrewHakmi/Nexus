@@ -51,4 +51,4 @@ Do your best to figure out where to engage. And do not worry, we are trying to f
     - You can JOIN a thread, to do this right click the thread and choose 'join'.  
         This will make the thread appear under the channel, and you can see conversation in it!
 
-- If you want your DMs alongside channels-view, use the Desktop Discord client and WebUI together
+- If you want your DMs alongside channels-view, you can use the Desktop Discord client and WebUI together (or simply multiple WebUIs windows)
