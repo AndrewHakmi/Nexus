@@ -63,6 +63,7 @@ This page contains solutions to a lot of common issues and errors, try to find y
 <details>
   <summary>How do i update Auto-GPT using Git?</summary>
   Use the command: "git pull origin master" in the main Auto-GPT folder.
+</details>
 
 ## Common Error Messages:
 
