@@ -1,18 +1,22 @@
-**Note:** The team is steadily growing and evolving. This page might be out of date in a week or a month.
+**Note:** *We seek to foster an environment that empowers contributors and encourages creativity. Whatever structure we create is in service of this goal. If we are doing things a certain way, it is because it is the best we have come up with. We're constantly changing up, growing and evolving. On this note, keeping these pages up to date is a collective responsibility. If you see something is off, please discuss on Discord and/or fix it!*
 
 ## Development
 The Auto-GPT development team uses the following roles:
 
-* **Contributor**  
-  Auto-GPT would not be where it is without all of its 295+ [Contributors]: anyone who has submitted a pull request that was merged into the codebase. We receive more contributions than we can process at the moment, but nonetheless we are very happy with the engagement and thankful for the interest and the time invested in contributing to the project.
+* **[Contributor](https://github.com/Significant-Gravitas/Auto-GPT/graphs/contributors)**  
+  Auto-GPT would not be where it is without all of its 295+ contributors (anyone who has submitted a PR (pull request) that was merged into the codebase). Please note that we're still working through a backlog of PRs. If you would like us to prioritize a PR, please contact a team member on Discord.
 
-[Contributors]: https://github.com/Significant-Gravitas/Auto-GPT/graphs/contributors
+* **[Catalyst](https://github.com/Significant-Gravitas/Nexus/wiki/Catalyzing)**  
+  Catalysts are those keen to involve with the project in general (beyond a specific contribution). Catalyst operations include:
+  - managing the stream of incoming issues / PRs on GitHub, performing initial scanning and filtering
+  - facilitating information-flow
+    - communicating with PR authors and team on GitHub and Discord
+    - making sure pressing issues are picked up
+      - keeping an eye on bug-reports and feedback
+  - keeping Discord issues clean / organized, removing duplications
 
-* **Catalyst**  
-  Our Catalysts are tasked with managing the stream of incoming pull requests and bug reports on GitHub and Discord, performing initial scanning and filtering and making sure pressing issues are picked up.
-
-* **Maintainer**  
-  The Maintainers are charged with the upkeep of the project: they are in charge of the overall architecture of the project, guard the project scope, and gatekeep the codebase. As a part of this role, they provide final feedback on pull requests and merge those that are up to standards and in line with the project.
+* **[Maintainer](https://github.com/Significant-Gravitas/Nexus/wiki/Maintaining)**  
+  Maintainers are concerned with the upkeep of the project: they are in charge of the overall architecture of the project, guard the project scope, and gatekeep the codebase. As a part of this role, they provide final feedback on pull requests and merge those that are up to standards and in line with the project.
 
 ## Operations
 A number of Maintainers and Lead Catalysts also work on the way we organize ourselves with roles, departments, workflows and information streams.
