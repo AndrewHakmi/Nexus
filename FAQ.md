@@ -1,5 +1,5 @@
 ## This is the newly created Frequently Asked Questions page
-This page contains solutions to a lot of common issues and errors, try to find your problem here before posting on discord or filing an issue on github.
+This page contains solutions to a lot of common issues and errors, try to find your problem here before posting on discord or filing an issue on github. If you have a solution to an issue not mentioned here, please post these in **[Common issues](https://discord.com/channels/1092243196446249134/1109907151419347044)**
 
 
 ## Common Questions:
