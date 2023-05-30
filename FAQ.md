@@ -52,9 +52,17 @@ This page contains solutions to a lot of common issues and errors, try to find y
   <summary>python -m autogpt does not work:</summary>
   Use the following command in your Auto-GPT folder:<br>
   <b>Mac:</b> ./run.sh <br>
-  <b>Linux:</b> ./run.sh <br>
   <b>Windows:</b> .\run.bat<br>
 </details>
+
+<details>
+  <summary>How do i update Auto-GPT using Docker?</summary>
+  Use the command: "docker pull significantgravitas/auto-gpt:latest" in your container.
+</details>
+
+<details>
+  <summary>How do i update Auto-GPT using Git?</summary>
+  Use the command: "git pull origin master" in the main Auto-GPT folder.
 
 ## Common Error Messages:
 
