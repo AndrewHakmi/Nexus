@@ -1,19 +1,19 @@
-# STOP PRESS
+⚠️💀 WARNING 💀⚠️: Review the code of any plugin you use thoroughly, as plugins can execute any Python code, potentially leading to malicious activities, such as stealing your API keys.
 
-We're re-architecting. [HERE](https://github.com/Significant-Gravitas/Auto-GPT/wiki/Architecting)
+## STOP PRESS
 
+We're re-architecting. More info here[HERE](https://github.com/Significant-Gravitas/Auto-GPT/wiki/Architecting)
 
-# Policy for Plugins Creators
+## Plugin Users
 
-Plugins can be used to extend AutoGPT functionality.
+Plugins can be used to extend AutoGPT functionality. Users should please see the [user guide](https://docs.agpt.co/plugins/) for how to install and use plugins.
 
-For users, please see the user guide for how to install and use plugins [link]
+## Plugin Developers
 
-For plugin developers, find resources below:
+Plugin developers can use the [Auto-GPT Plugin Template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template) as a starting point for creating their own plugins.
 
-1/ How to develop a plugin.
+For more information, please see ["Creating a Plugin"](https://github.com/Significant-Gravitas/Auto-GPT-Plugins#creating-a-plugin) in the main plugin repo.
 
-The fastest way to get started is to use the plugin template here [link]
 
 Start a new repository using that template, clone the repository, rename sec, etc, and you are good to go. 
 
