@@ -1,7 +1,8 @@
 We all like to dive in. But this is an advanced alien spacecraft 🚁. Luckily our core-devs have provided a manual!
 
-- ###Visit the [Installation guide](https://docs.agpt.co)
+## Visit the [Installation guide here](https://docs.agpt.co)
 
+## Discussions
 
 ### 🎮 Join our [**Discord**](https://discord.gg/autogpt) 💬 and stay updated on our development
 
