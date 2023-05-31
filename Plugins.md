@@ -1,30 +1,15 @@
-⚠️💀 WARNING 💀⚠️: Review the code of any plugin you use thoroughly, as plugins can execute any Python code, potentially leading to malicious activities, such as stealing your API keys.
+⚠️💀 WARNING 💀⚠️: Please note that when using third-party plugins to enhance AutoGPT's functionality, it is important to review the plugin's code thoroughly. This is necessary because plugins, being able to execute any Python code, can potentially be used to perform malicious activities, such as stealing your API keys
 
-## STOP PRESS
+## STOP THE PRESS
 
-We're re-architecting. More info here[HERE](https://github.com/Significant-Gravitas/Auto-GPT/wiki/Architecting)
+In other news, we are currently undergoing re-architecting. To learn more, please visit https://github.com/Significant-Gravitas/Auto-GPT/wiki/Architecting. [HERE](https://github.com/Significant-Gravitas/Auto-GPT/wiki/Architecting)
 
 ## Plugin Users
 
-Plugins can be used to extend AutoGPT functionality. Users should please see the [user guide](https://docs.agpt.co/plugins/) for how to install and use plugins.
+If you are a plugin user, please refer to the [user guide](https://docs.agpt.co/plugins/) for instructions on how to install and use plugins. 
 
 ## Plugin Developers
 
-Plugin developers can use the [Auto-GPT Plugin Template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template) as a starting point for creating their own plugins.
+For plugin developers, we recommend using the [Auto-GPT Plugin Template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template) as a starting point when creating your own plugins. Additional information on developing and sharing plugins can be found in the ["Creating a Plugin"](https://github.com/Significant-Gravitas/Auto-GPT-Plugins#creating-a-plugin) section of the main plugin repository. 
 
-For more information, please see ["Creating a Plugin"](https://github.com/Significant-Gravitas/Auto-GPT-Plugins#creating-a-plugin) in the main plugin repo.
-
-
-Start a new repository using that template, clone the repository, rename sec, etc, and you are good to go. 
-
-2/ Hosting your plugin.
-
-There are two types of plugins, first party and third party plugins. 
-
-If you think your plugin is a candidate for first party plugins, confirm by checking with @maintainers on discord, and then clone the plugin repository, and add your plugin to ABC and issue a PR.
-
-If you'd like to be listed as a third party plugin, do this ... 
-
-3/ Plugin format detail 
-
-Contact @ntindle on Discord
+Should you have any questions or concerns, please contact @ntindle on Discord.
