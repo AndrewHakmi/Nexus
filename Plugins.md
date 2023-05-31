@@ -2,7 +2,7 @@
 
 ## STOP THE PRESS
 
-In other news, we are currently undergoing re-architecting. To learn more, please visit https://github.com/Significant-Gravitas/Auto-GPT/wiki/Architecting. [HERE](https://github.com/Significant-Gravitas/Auto-GPT/wiki/Architecting)
+In other news, we are currently undergoing re-architecting. To learn more, please visit https://github.com/Significant-Gravitas/Auto-GPT/wiki/Architecting.
 
 ## Plugin Users
 
