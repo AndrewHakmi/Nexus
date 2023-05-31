@@ -10,6 +10,7 @@ NOTE:
 
 
 - - -
+<br>
 
 ## 👁️ Our Vision
 
@@ -27,18 +28,28 @@ Now the AI revolution is upon us.
 
 With great power comes great responsibility.  
 Be aware of your intentions and help us build a brighter tomorrow! ☀️
+<br>
+<br>
+## 🛠️ Our Mission
 
-### 🛠️ What are we building?
+Build an autonomous agent capable of accomplishing complex tasks on its own.
 
-An autonomous agent capable of accomplishing complex tasks on its own.
-
-### 🏗️ Who are we building this for? 
+#### 🏗️ Who are we building this for? 
 
 For our future selves. 🧑‍🤝‍🧑🌍🧑‍🤝‍🧑 
 
-### ❓ What is Auto-GPT?
+#### ❓ What is Auto-GPT?
 
-basic simple explanation:
+***basic*** simple explanation:
 
 We present the LLM with a task, and give it several tools it can use.
 It has to figure out how to apply the tools to solve the task.
+<br>
+<br>
+## 📍 Where can you find us?
+<br>
+Stay up-to-date with all Auto-GPT updates by following us on social media! We are currently building out consistent posting rhythms.<br>
+<br>
+<a href="https://twitter.com/Auto_GPT"><b>Twitter</b></a><br> 
+<a href="https://www.youtube.com/@A_GPT"><b>Youtube</b></a><br>
+<a href="https://www.instagram.com/autogpt/"><b>Instagram</b></a><br>
