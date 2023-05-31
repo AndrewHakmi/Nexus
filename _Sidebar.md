@@ -17,3 +17,4 @@
   * [📥 Catalyst Priorities](Catalyst-Priorities)
 * [🧙‍♂️ Maintainer guide](Maintaining)
 * [📚 Reading Group](Reading-Group)
+* [🕶 Awesome Resources](Awesome-Resources)
