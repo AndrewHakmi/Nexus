@@ -1,6 +1,6 @@
-* [🛖 Home](Home)
+* [🐙 Home](Home)
 * [💬 Discord](Discord)
-* [🪵 Team structure](🪵-Team-structure)
+* [👥 Team structure](Team-structure)
 
 #### Help
 * [🤖 Using Auto-GPT](using-auto-gpt)
@@ -13,7 +13,7 @@
   * [🧩 Challenges](Challenges)
   * [🛠️ Testing](Testing)
 * [🧪 Catalyst guide](Catalyzing)
-  * [✉️ Catalyst Suggestions](Catalyst-Suggestions)
-  * [ Catalyst Priorities](Catalyst-Priorities)
+  * [📨 Catalyst Suggestions](Catalyst-Suggestions)
+  * [📥 Catalyst Priorities](Catalyst-Priorities)
 * [🧙‍♂️ Maintainer guide](Maintaining)
 * [📚 Reading Group](Reading-Group)
