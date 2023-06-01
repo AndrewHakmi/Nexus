@@ -97,6 +97,11 @@ This page contains solutions to a lot of common issues and errors, try to find y
 </details>
 
 <details>
+  <summary>NotImplementedError: The Redis memory backend has been rendered incompatible by work on the memory system, and has been removed temporarily.</summary>
+  in your .env find the section on memory, there find the following variables: MEMORY_BACKEND and MEMORY_INDEX. set MEMORY_BACKEND to "json_file" and remove the hashtag and space in front of both variables.
+</details>
+
+<details>
   <summary>Command write_to_file returned: Error: 'PosixPath' object has no attribute 'is_relative_to': </summary>
   Your python version is not recent enough. Update to Python 3.10. You may also need to take the old python out 
   of your PATH. How this is done depends on the OS you're using and can vary by preference. Look for 
