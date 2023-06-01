@@ -1,9 +1,20 @@
 ## Ethos
-We seek to foster an environment that empowers contributors and encourages creativity. Whatever structure we create is in service of this goal. If we are doing things a certain way, it is because it is the best we have come up with. We're constantly changing up, growing and evolving, and welcome improvements!
 
-On this note, keeping these pages up to date is a collective responsibility. If you see something is off, please discuss on Discord and/or fix it!
+We work to foster an environment that empowers individuals to manifest. Whatever structure we create is in service of this goal. If we are doing things a certain way.
 
-We aim towards a truly modern async workflow, in line with https://levelup.gitlab.com/learn/course/teamops/. If you wish to operate effectively within our ecosystem, please take a couple of hours to go through this course. You'll find it boils down to common sense, but common sense is not so common!
+We are innovating a modern async workflow. The [GitLab Way](https://levelup.gitlab.com/learn/course/teamops/) does a great job of formalizing this. If you're keen to operate effectively within our ecosystem, do consider taking a couple of hours to blitz this micro-course. You'll find it boils down to common sense, but common sense is a rare and precious quality!
+
+If you see something misaligned, please act! We're constantly changing up, growing and evolving, and welcome improvements! (That goes for this wiki too!)
+
+
+## Looking to involve?
+
+Elon says it best:
+
+> A super hardcore work ethic, talent for building things, common sense & trustworthiness are required, the rest we can train.  
+> [Elon Musk](https://twitter.com/elonmusk/status/1224625719659110400?s=20)
+
+We welcome involvement at all levels, from chatting on Discord, through submitting discussions/issues/PRs, through working in the team to catalyze development, all the way to maintaining and evolving the project.
 
 
 ## Development
