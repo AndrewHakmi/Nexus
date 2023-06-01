@@ -23,6 +23,9 @@ The Auto-GPT development team uses the following roles:
 * **[Contributor](https://github.com/Significant-Gravitas/Auto-GPT/graphs/contributors)**  
 Auto-GPT would not be where it is without all of its 295+ contributors (anyone who has submitted a PR (pull request) that was merged into the codebase). Please note that we're still working through a backlog of PRs. If you would like us to prioritize a PR, please contact a team member on Discord.
 
+* **[Challenger](https://github.com/Significant-Gravitas/Nexus/wiki/Challenges)**
+Challenge-Driven-Development is where we code up a range of challenges, each of which is run through AutoGPT, and gets a certain score (e.g. level 11). This way you (the dev) can tweak AutoGPT and see if you can improve it (e.g. reach level 12).
+
 * **[Catalyst](https://github.com/Significant-Gravitas/Nexus/wiki/Catalyzing)**  
 Catalysts are those keen to involve with the project in general (beyond a specific contribution). Catalyst operations include:
   - managing the stream of incoming issues / PRs on GitHub, performing initial scanning and filtering
