@@ -10,6 +10,11 @@ This page contains solutions to a lot of common issues and errors, try to find y
 </details>
 
 <details>
+  <summary>How do i start Auto-GPT?</summary>
+  A full description for this is given in the <a href="https://docs.agpt.co/setup/"><b>docs</b></a>
+</details>
+
+<details>
   <summary>I have a paid chatGPT account, why does my Auto-GPT not work?</summary>
   A paid openAI chatGPT account is not the same as an openAI API account. Go to <a href="platform.openai.com"><b>OpenAI Platform</b></a> and make sure you have a valid billing method set. You will likely also want to join the gpt 4 waitlist which can be done <a href="https://openai.com/waitlist/gpt-4-api"><b>here</b></a>
 </details>
