@@ -15,6 +15,11 @@ This page contains solutions to a lot of common issues and errors, try to find y
 </details>
 
 <details>
+  <summary>I want to setup Auto-GPT, but i cannot find the dependencies</summary>
+  In the Auto-GPT main folder run the following command:<br>"pip install -r requirements.txt".
+</details>
+
+<details>
   <summary>I changed my <b>.env</b> file and saved it, but why does Auto-GPT still not work?</summary>
   Double check your<b>.env</b> file and make sure that the lines you are using do not contain a <b>#</b> and a 
   space at the beginning of the line. It should look like this :<br>
