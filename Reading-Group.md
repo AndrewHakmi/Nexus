@@ -11,20 +11,21 @@ To see what is being discussed check out the [Reading Group](https://discord.com
 
 You can also find a collection of all papers read so far in this [GitHub repo.](https://github.com/samuelbutler/Auto-GPT-Papers)
 
-The reading group effort is currently lead by Sam Butler (`SamDCBU (UTC-5)` on discord) and Douglas Schonholtz (`Douglas GMT-5 dschonholtz` on discord)
+The reading group effort is currently lead by Sam Butler (`samdcbu (UTC-5) samuelbuter` on Discord) and Douglas Schonholtz (`Douglas GMT-5 dschonholtz` on Discord)
 
 
 ## FAQ
 
 - ***I'm an author can I present a paper?***  
-    Yes! We would love to encourage people showing off their research in the community. Just ping Douglas or Sam in discord so we can notify the community so you have a crowd.
+    Yes! We would love to encourage people showing off their research in the community. Send a DM to `@samdcbu` on Discord and they'll get you put on the schedule.
+
 
 - ***I want to go over x paper what should I do with it?***  
-    Post it in our paper suggestions thread in the reading group channel in discord.
+    Post it in the [`paper-suggestions'](https://discord.com/channels/1092243196446249134/1103756242943492148) channel in the reading group section on Discord.
 
 - The current reading group times don't work for me, but I really want to learn more and participate in discussions. ***How can I get involved?***  
     We are working on spinning up a [second time.](https://discord.com/channels/1092243196446249134/1103371639036575844/1105861124013957250) That is a work in progress though and we could use help in organizing those meetings.
 
 - ***I'm not an author, but I'd like to present a paper. Can I?***  
-    Yes! We just recommend you let us know so we can notify the community.
+    Yes! Send a DM to `@samdcbu` on Discord and they'll get you put on the schedule.
 
