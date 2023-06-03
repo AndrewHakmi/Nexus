@@ -17,7 +17,7 @@ The reading group effort is currently lead by Sam Butler (`samdcbu (UTC-5) samue
 ## FAQ
 
 - ***I'm an author can I present a paper?***  
-    Yes! We would love to encourage people showing off their research in the community. Send a DM to `@samdcbu` on Discord and they'll get you put on the schedule.
+    Yes! We would love to encourage people showing off their research in the community. Send a DM to `@samdcbu#2399` on Discord and they'll get you put on the schedule.
 
 
 - ***I want to go over x paper what should I do with it?***  
@@ -27,5 +27,5 @@ The reading group effort is currently lead by Sam Butler (`samdcbu (UTC-5) samue
     We are working on spinning up a [second time.](https://discord.com/channels/1092243196446249134/1103371639036575844/1105861124013957250) That is a work in progress though and we could use help in organizing those meetings.
 
 - ***I'm not an author, but I'd like to present a paper. Can I?***  
-    Yes! Send a DM to `@samdcbu` on Discord and they'll get you put on the schedule.
+    Yes! Send a DM to `@samdcbu#2399` on Discord and they'll get you put on the schedule.
 
