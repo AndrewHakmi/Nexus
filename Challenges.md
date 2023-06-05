@@ -1,5 +1,7 @@
 ## 🏹 We're on the hunt for talented Challenge Creators! 🎯
 
+Current challenges can be found here: https://docs.agpt.co/challenges
+
 Interested?
 
 Join us in shaping the future of Auto-GPT by designing challenges that test its limits. Your input will be invaluable in guiding our progress and ensuring that we're on the right track.
