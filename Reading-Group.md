@@ -7,6 +7,9 @@ The Reading Group is designed to accomplish three goals.
 3. And the AutoGPT Core
 
 **We every M W F at 6 pm GMT to discuss a different paper.**
+<relative-time datetime="2014-04-01T16:30:00-08:00">
+  April 1, 2014
+</relative-time>
 
 Join the reading group by the instructions in the pinned message of the [`reading-group`](https://discord.com/channels/1092243196446249134/1103371639036575844) Channel on Discord. The only thing you'll need to do in order to gain access to the Discord voice channel where we hold paper discussions is click an emoji reaction on a Discord message in order to consent to being recorded during the `reading-group` paper discussions.
  
