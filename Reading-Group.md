@@ -6,7 +6,7 @@ The Reading Group is designed to accomplish three goals.
 2. To use that research to improve benchmarks challenges,
 3. And the AutoGPT Core
 
-We on M W F at 6 pm GMT to discuss a different paper.
+**We on M W F at 6 pm GMT to discuss a different paper.**
 
 To see what is being discussed check out the [`reading-group`](https://discord.com/channels/1092243196446249134/1103371639036575844) Channel on Discord. We have a thread for each paper discussed.
 
