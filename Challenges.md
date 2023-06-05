@@ -1,6 +1,6 @@
 ## 🏹 We're on the hunt for talented Challenge Creators! 🎯
 
-Current challenges can be found here: https://docs.agpt.co/challenges
+Current challenges can be found here: https://docs.agpt.co/challenges/introduction/
 
 Interested?
 
