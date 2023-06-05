@@ -8,9 +8,9 @@ The Reading Group is designed to accomplish three goals.
 
 **We every M W F at 6 pm GMT to discuss a different paper.**
 
-To see what is being discussed check out the [`reading-group`](https://discord.com/channels/1092243196446249134/1103371639036575844) Channel on Discord. We have a thread for each paper discussed.
-
-You can also find a collection of all papers read so far in this [GitHub repo.](https://github.com/samuelbutler/Auto-GPT-Papers)
+Join the reading group by the instructions in the pinned message of the [`reading-group`](https://discord.com/channels/1092243196446249134/1103371639036575844) Channel on Discord. The only thing you'll need to do in order to gain access to the Discord voice channel where we hold paper discussions is click an emoji reaction on a Discord message in order to consent to being recorded during the `reading-group` paper discussions.
+ 
+The authoritative source for what papers we will be reading next can be found here: [GitHub repo.](https://github.com/samuelbutler/Auto-GPT-Papers)
 
 The reading group effort is currently lead by Sam Butler (`samdcbu (UTC-5) samuelbuter` on Discord) and Douglas Schonholtz (`Douglas GMT-5 dschonholtz` on Discord)
 
