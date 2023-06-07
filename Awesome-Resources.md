@@ -44,6 +44,7 @@ This page includes a curated list of awesome projects and resources related to a
 - [2022/07/20] 📚[Inner Monologue: Embodied Reasoning through Planning with Language Models](https://arxiv.org/pdf/2207.05608.pdf), Wenlong Huang, et al. [[demo]](https://innermonologue.github.io/)
 - [2022/04/04] [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](), Michael Ahn, e al. [[demo]](https://say-can.github.io/)
 - [2021/12/17] [WebGPT: Browser-assisted question-answering with human feedback](https://arxiv.org/pdf/2112.09332.pdf), Reiichiro Nakano, et al.
+- [2021/6/17] [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685), Edward J. Hu, et al.
 
 ### Blog Articles
 - [2023/04/20] [Conscious Machines: Experiments, Theory, and Implementations(Chinese)](https://pattern.swarma.org/article/230) By Jiang Zhang
