@@ -40,7 +40,7 @@ This page includes a curated list of awesome projects and resources related to a
 - [2023/03/30] [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651), Aman Madaan, et al.[[code]](https://github.com/madaan/self-refine)
 - [2023/03/30] [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/pdf/2303.17580.pdf), Yongliang Shen, et al. [[code]](https://github.com/microsoft/JARVIS) [[demo]](https://huggingface.co/spaces/microsoft/HuggingGPT)
 - [2023/03/20] [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/pdf/2303.11366.pdf), Noah Shinn , et al. [[code]](https://github.com/noahshinn024/reflexion)
-- [2023/2/ 23] 📚[Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection][(Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173), Sahar Abdelnab, et al.
+- [2023/2/ 23] 📚[Not what you've signed up for: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://arxiv.org/abs/2302.12173), Sahar Abdelnab, et al.
 - [2023/02/09] 📚[Toolformer: Language Models Can Teach Themselves to Use Tools](https://arxiv.org/pdf/2302.04761.pdf), Timo Schick, et al. [[code]](https://github.com/lucidrains/toolformer-pytorch)
 - [2023/12/12] 📚[LMQL: Prompting Is Programming: A Query Language for Large Language Models](https://arxiv.org/abs/2212.06094), Luca Beurer-Kellner, et al.
 - [2022/10/06] [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/pdf/2210.03629.pdf), Shunyu Yao, et al. [[code]](https://github.com/ysymyth/ReAct)
