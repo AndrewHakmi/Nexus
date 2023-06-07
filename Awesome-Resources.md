@@ -32,7 +32,8 @@ This page includes a curated list of awesome projects and resources related to a
 - [2023/05/25] 📚[Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291.pdf), Guanzhi Wang, et al. [[code]](https://github.com/MineDojo/Voyager) [[website]](https://voyager.minedojo.org/), Shishir G. Patil, et al. 
 - [2023/5/24] 📚[Gorilla: Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/abs/2305.15334) 
 - [2023/05/17] 📚[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601), Shunyu Yao, et al.[[code]](https://github.com/kyegomez/tree-of-thoughts) [[code-orig]](https://github.com/ysymyth/tree-of-thought-llm) 
-- [2323/5/1] 📚 [Learning to Reason and Memorize with Self-Notes](https://arxiv.org/abs/2305.00833), Jack Lanchantin, et al.
+- [2023/5/1] 📚 [Learning to Reason and Memorize with Self-Notes](https://arxiv.org/abs/2305.00833), Jack Lanchantin, et al.
+- [2023/4/22] 📚[LLM+P: Empowering Large Language Models with Optimal Planning Proficiency](https://arxiv.org/abs/2304.11477), Bo Liu, et al.
 - [2023/04/07] 📚[Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442), Joon Sung Park, et al. [[code]](https://github.com/mkturkcan/generative-agents)
 - [2023/03/30] [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651), Aman Madaan, et al.[[code]](https://github.com/madaan/self-refine)
 - [2023/03/30] [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/pdf/2303.17580.pdf), Yongliang Shen, et al. [[code]](https://github.com/microsoft/JARVIS) [[demo]](https://huggingface.co/spaces/microsoft/HuggingGPT)
