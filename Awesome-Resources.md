@@ -27,8 +27,7 @@ This page includes a curated list of awesome projects and resources related to a
 
 ## Articles
 ### Research Papers
-📚 means the one we have a discussion in our reading group.
-
+📚 indicates that we read this paper in the AutoGPT reading group.
 - [2023/05/25] 📚[Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/pdf/2305.16291.pdf), Guanzhi Wang, et al. [[code]](https://github.com/MineDojo/Voyager) [[website]](https://voyager.minedojo.org/), Shishir G. Patil, et al. 
 - [2023/5/24] 📚[Gorilla: Gorilla: Large Language Model Connected with Massive APIs](https://arxiv.org/abs/2305.15334) 
 - [2023/05/17] 📚[Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601), Shunyu Yao, et al.[[code]](https://github.com/kyegomez/tree-of-thoughts) [[code-orig]](https://github.com/ysymyth/tree-of-thought-llm) 
