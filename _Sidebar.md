@@ -16,5 +16,6 @@
   * [📨 Catalyst Suggestions](Catalyst-Suggestions)
   * [📥 Catalyst Priorities](Catalyst-Priorities)
 * [🧙‍♂️ Maintainer guide](Maintaining)
+* [📥 Processing Contributions](Processing-Contributions)
 * [📚 Reading Group](Reading-Group)
 * [🕶 Awesome Resources](Awesome-Resources)

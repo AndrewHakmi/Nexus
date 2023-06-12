@@ -1,9 +1,3 @@
-🧙‍♀️ Here be wizards
-
-TODO: flesh this all out
-- our review/merge process
-- what else?
-
 ## Maintainers' Responsibilities
 
 **TL;DR:** Upkeep of the project.
@@ -12,25 +6,105 @@ TODO: flesh this all out
   * Ensure the project architecture serves the project's goals
   * Coordinate with catalysts, contributors, and external parties
 * Gatekeep the codebase and ensure its quality
-  * Reviewing and merging pull requests
+  * Process and encourage valuable external contributions
+    * Perform final review and merge good pull requests
 * Publish releases
+
+## Maintainer Guide 🧙🏼
+
+### Processing incoming contributions 📥
+Handling pull requests and other types of contributions is not the sole responsibility of Maintainers, but rather a synergy between Catalysts and Maintainers. This workflow is described in [Processing Contributions](Processing-Contributions).
+
+### Publishing releases 🚀
+
+<details>
+<summary><strong>Checklist to copy to the release PR 📋</strong></summary>
+
+[Example usage: Release v0.4.0](https://github.com/Significant-Gravitas/Auto-GPT/pull/4539)
+
+```markdown
+1. [ ] Prepare 🏗️
+    1. [ ] create release branch (`release-v0.x.x`)
+    2. [ ] create release PR, with this checklist in the description
+    3. [ ] resolve conflicts with `stable`
+    4. [ ] test release branch
+    5. [ ] update version numbers
+    6. [ ] update bulletin in release branch
+    7. [ ] create draft release for peer review
+2. [ ] Publish 🚀
+    1. [ ] merge release branch into `stable`
+    2. [ ] tag & publish release v0.x.x
+    3. [ ] post announcement on Discord (@Ferg)
+    4. [ ] post announcement on Twitter (@Ferg)
+    5. [ ] post announcement on Instagram (@Ferg)
+    6. [ ] post announcement on [Reddit](https://www.reddit.com/r/AutoGPT)
+    7. [ ] send newsletter
+    8. [ ] blog post?
+    * any other places to post announcements?
+3. [ ] Post-process 🎀
+    1. [ ] merge release branch into `master`
+    2. [ ] close the release's milestone
+    3. [ ] evaluate this release process
+    4. [ ] set next release (scope + target date)
+```
+</details>
+
+#### Conventions
+* We [strive to] release each Thursday at 21:00 UTC – [21 May 2023](https://discord.com/channels/1092243196446249134/1097204317125091328/1109658983163244626)
+
+#### Further instructions
+- While preparing for release:
+  - Any non-urgent cards milestoned for the release-in-progress which are not cleared yet should be moved to the next milestone.
+
+- 8-24 hours before release:
+  - Compile Release Notes
+    - On [Releases](https://github.com/Significant-Gravitas/Auto-GPT/releases) page, `Draft New Release`
+    - `Choose a tag`: (e.g.) `v0.3.1` and click `Create new tag: v0.3.1 on publish`
+    - Click `Previous tag: auto` pulldown, and select the tag of the last release
+        NOTE: Yes it's annoying the `auto` sometimes selects the wrong tag, so yes we have to do this!
+    - Click `Generate Release Notes`
+    - Use common sense to pick out user-oriented highlights
+    - Combine write-up about highlights etc. and the generated release notes and create a draft release
+    - Update BULLETIN.md with the most important *user-oriented* highlights and changes since the last major version
+
+  - Coordinate community testing in [*#🧪 • testing*](https://discord.com/channels/1092243196446249134/1098217450425827468):
+    - Write a message inviting to test the release branch
+      - Include a list of most important features to test, based on the changes since the last release
+      - Highlight `@Catalyst`, `@Maintainer`, and `@Windows Tester`, `@Linux Tester`, `@MacOS Tester`, `@Docker Tester`
+    - Create a thread from the message
+    - In the thread, ask testers to react with ✅ or ❌, and to leave a comment if ❌
+
+### Organizing meetings 🎤
+- Draft an agenda (https://pad.bitlair.nl/)
+- Create a thread at the relevant place (e.g. ⁠*💬 • dev-contributors-chat*)
+- Use https://lettucemeet.com to gather the availability of prime attendees if necessary
+- Post invitation in thread & highlight the invited people or groups
+  - Propose time using https://r.3v.fi/discord-timestamps/ -- invite 👍 👎 responses
+  - Link the agenda so stakeholders can contribute & prepare
+- During the meeting, add discussion summaries, takeaways and TODOs from the meeting to the pad
+- After the meeting, tidy up notes and summarize actionables in the meeting thread
+
+
+## Challenges with Maintaining
+
+### Distribution of Time/Effort
+The properties, skills, and in-depth knowledge of the project that maintainers are required to have make them prone to picking up subprojects or other tasks that take up a lot of time. This can be of great value to the project, but also takes away from the available reviewing/merging power. The organization-level challenge this presents is to strike a balance between working on internal plans and processing external contributions.
+
+Even if we can coordinate better just working among ourselves, there are a lot of valuable pull requests out there: improvements handed to us on a silver platter. Reviewing PRs can also help us find valuable contributors or potential catalysts/maintainers.
+
+### Moving Forwards or Upwards?
+Maintainers are charged with ensuring the quality of the codebase, but also with promoting the overall progress of the project. These two are often at odds: we get many medium-quality contributions which would introduce an improvement while also incurring technical debt or diverging from conventions or standards.
+
+As of June 2023, we are pushing hard to make progress on two different fronts: performance and architecture. Performance improvements drive us forwards, closer to our goal of building an efficacious AI Agent. Architecture improvements move us upwards: a good architecture can make it easier to build and test performance improvements, just like an airplane can more easily move through the air at high altitude.
+
+Since we are striving for both, neither can be called more important than the other. In daily reviewing though, we have to be practical. So: **it is acceptable to merge a performance improvement which doesn't exactly follow our highest standards if its added value is significantly greater than the incurred technical debt.** This way, the net added value is still positive, and the details can be perfected in a later pull request if it's really that important.
+
+> **Note**  
+> This is not a carte blanche to merge mediocre pull requests. They should still be of reasonable quality. And in the future, if the volume of PRs decreases or our capacity to process them increases, we may raise the bar.
 
 ## Conventions
 
-* GitHub
-  * Assign PR to a milestone if appropriate
-  * __nit:__ if we're reviewing someone's code, but don't want to insist they take our suggestion
-* Kanban
-  * Assign yourself to a card in the "In Progress" col, so people can see what you're up to.
-
-## Discord
-
-* Each day, `#maintainer-updates` channel:  
-  * Post a message when you clock in, with your TODOs.  
-  * As you work, update this message, so that when you clock out it actually shows what you did (and things still to do)
-    This way we can see what everyone's up to.
-
-### Reactions  
+### Reactions 😀
 Let's be creative:
 - 👀 (looking at it) -- if someone presents an issue (e.g. a pull-request) we don't want everyone looking at it.
     So whoever is looking at it, react with 👀
@@ -38,18 +112,9 @@ Let's be creative:
 - ✅ job done (merged, finished, etc)
 - etc.
 
-## Organizing meetings
+## Tooling 🛠️
 
-- create a thread at the relevant place (e.g. ⁠💬・dev-contributors-chat )
-- In it Hilight e.g. @Contributor @Catalyst @Maintainer, @Catalyst @Matintainer, or just @Maintainer
-    - Propose time using https://r.3v.fi/discord-timestamps/ -- invite 👍 👎 responses
-    - link a livedoc https://pad.bitlair.nl/ so stakeholders can put together an agenda, so meeting starts hot
-        - seed the agenda
-- during the meeting, can update further the livedoc like Nick did yesterday, marking out TODOs at bottom of doc
-- After the meeting, summarize actionables in thread
-
-
-## GitHub
+### GitHub
 
 GitHub has comprehensive tooling for collaborative projects, and WE ARE USING MOST OF IT. 
 
@@ -85,42 +150,8 @@ GitHub has comprehensive tooling for collaborative projects, and WE ARE USING MO
     - We can shuffle these around when we need to, e.g.: 
     At time of writing we're about to release 0.3.1, as it contains a critical bugfix.  
     We've created a 0.3.2 milestone (and re-targeted all cards that were targeting this milestone to this 0.3.2 milestone)
-    
-    
-## Release process
 
-NOTE (21 May 2023): [Discord link](https://discord.com/channels/1092243196446249134/1097204317125091328/1109658983163244626) We will be releasing each Thursday at 21:00z
-
-- Any cards milestoned for this release not cleared get pushed forward to next milestone
-
-- Compile RELEASE-NOTES
-    - On [Releases](https://github.com/Significant-Gravitas/Auto-GPT/releases) page, `Draft New Release`
-    - `Choose a tag`: (e.g.) `v0.3.1` and click `Create new tag: v0.3.1 on publish`
-    - Click `Previous tag: auto` pulldown, and select the tag of the last release
-        NOTE: Yes it's annoying the `auto` sometimes selects the wrong tag, so yes we have to do this!
-    - Click `Generate Release Notes`
-    - Throw these thru GPT4 to get a bulleted list
-    - Use common sense to reformulate/reorganize items
-
-- Round of testing (1h before release)
-    - in #testing (in `Development` section) on the Discord:
-        - Hilight @Contributor @Catalyst @Maintainer and @Windows Tester  @Linux Tester  @MacOS Tester  @Docker Tester
-        - Dump RELEASE-NOTES into message
-        - Create a thread from the message
-        - In the thread, ask for testers to ✅ ❌, and leave a comment if ❌
-
-- Update BULLETIN.md to announce new version
-
-- ⭐️ Make the release, dropping in the RELEASE-NOTES, and tag master (e.g. v0.3.1)
-
-- Announce it using the main Discord #Announcements channel (which relays to 50k+ other discord users as well as our guild)
-
-- Tweet from official AutoGPT Twitter ([Toran](https://twitter.com/siggravitas))
-
-- Retire old milestone (GH-PR-page (any PR))!
-
-
-## Tooling
+### Other tooling
 Here are some tools to make the life of catalysts and maintainers easier!
 
 - [Refined GitHub](https://github.com/refined-github/refined-github) Chrome Extension to improve GitHub Web{UI/UX}
