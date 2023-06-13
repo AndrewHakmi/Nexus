@@ -52,6 +52,7 @@ This page includes a curated list of awesome projects and resources related to a
 - [2021/06/17] 📚[LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685), Edward J. Hu, et al.
 
 ### Blog Articles
+- [2023/04/29] [AUTO-GPT: UNLEASHING THE POWER OF AUTONOMOUS AI AGENTS](https://www.leewayhertz.com/autogpt/) By Akash Takyar
 - [2023/04/20] [Conscious Machines: Experiments, Theory, and Implementations(Chinese)](https://pattern.swarma.org/article/230) By Jiang Zhang
 - [2023/04/18] [Autonomous Agents & Agent Simulations](https://blog.langchain.dev/agents-round/) By Langchain
 - [2023/04/16] [4 Autonomous AI Agents you need to know](https://towardsdatascience.com/4-autonomous-ai-agents-you-need-to-know-d612a643fa92) By Sophia Yang
