@@ -24,23 +24,32 @@ Handling pull requests and other types of contributions is not the sole responsi
 
 ```markdown
 1. [ ] Prepare 🏗️
-    1. [ ] create release branch (`release-v0.x.x`)
-    2. [ ] create release PR, with this checklist in the description
-    3. [ ] resolve conflicts with `stable`
-    4. [ ] test release branch
-    5. [ ] update version numbers
-    6. [ ] update bulletin in release branch
-    7. [ ] create draft release for peer review
+    1. [ ] Create release branch (`release-v0.x.x`)
+    2. [ ] Create release pull request, with this checklist in the description
+    3. [ ] Resolve conflicts with `stable`
+    4. [ ] Test release branch
+    5. [ ] Update version numbers
+    6. [ ] Draft PR materials for release
+        * Release notes
+        * Discord announcement
+        * Twitter thread
+        * Instagram post
+        * Reddit post
+        * Developer news letter
+        * YouTube video (@ major releases)
+        * Blog post (@ major releases)
+    7. [ ] Update bulletin in release branch
+    8. [ ] Create draft release for peer review
 2. [ ] Publish 🚀
-    1. [ ] merge release branch into `stable`
-    2. [ ] tag & publish release v0.x.x
-    3. [ ] post announcement on Discord (@Ferg)
-    4. [ ] post announcement on Twitter (@Ferg)
-    5. [ ] post announcement on Instagram (@Ferg)
-    6. [ ] post announcement on [Reddit](https://www.reddit.com/r/AutoGPT)
-    7. [ ] send newsletter
-    8. [ ] blog post?
-    * any other places to post announcements?
+    1. [ ] Merge release branch into `stable`
+    2. [ ] Tag & publish release v0.x.x
+    3. [ ] Post announcement on Discord (@Ferg)
+    4. [ ] Post announcement on Twitter (@Ferg)
+    5. [ ] Post announcement on Instagram (@Ferg)
+    6. [ ] Post announcement on [Reddit](https://www.reddit.com/r/AutoGPT)
+    7. [ ] Send developer newsletter
+    8. [ ] Post video on YouTube (@ major releases)
+    9. [ ] Blog post (@ major releases)
 3. [ ] Post-process 🎀
     1. [ ] merge release branch into `master`
     2. [ ] close the release's milestone
