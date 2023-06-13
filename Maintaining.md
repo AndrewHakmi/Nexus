@@ -83,16 +83,6 @@ Handling pull requests and other types of contributions is not the sole responsi
     - Create a thread from the message
     - In the thread, ask testers to react with ✅ or ❌, and to leave a comment if ❌
 
-### Organizing meetings 🎤
-- Draft an agenda (https://pad.bitlair.nl/)
-- Create a thread at the relevant place (e.g. ⁠*💬 • dev-contributors-chat*)
-- Use https://lettucemeet.com to gather the availability of prime attendees if necessary
-- Post invitation in thread & highlight the invited people or groups
-  - Propose time using https://r.3v.fi/discord-timestamps/ -- invite 👍 👎 responses
-  - Link the agenda so stakeholders can contribute & prepare
-- During the meeting, add discussion summaries, takeaways and TODOs from the meeting to the pad
-- After the meeting, tidy up notes and summarize actionables in the meeting thread
-
 
 ## Challenges with Maintaining
 

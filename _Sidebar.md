@@ -19,3 +19,6 @@
 * [📥 Processing Contributions](Processing-Contributions)
 * [📚 Reading Group](Reading-Group)
 * [🕶 Awesome Resources](Awesome-Resources)
+
+#### Miscellaneous
+* [🎤 Having Useful Meetings](Meetings)
