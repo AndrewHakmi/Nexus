@@ -27,19 +27,21 @@ Handling pull requests and other types of contributions is not the sole responsi
     1. [ ] Create release branch (`release-v0.x.x`)
     2. [ ] Create release pull request, with this checklist in the description
     3. [ ] Resolve conflicts with `stable`
-    4. [ ] Test release branch
-    5. [ ] Update version numbers
-    6. [ ] Draft PR materials for release
-        * Release notes
+    4. [ ] Identify doc changes needed, create tasks for this release or next, depending on severity 
+    5. [ ] Test release branch
+    6. [ ] Update version numbers
+    7. [ ] Draft PR materials for release
+        * Release notes - Github generates pretty good ones but requires drafting an alpha or pre-release so others can see them and comment
         * Discord announcement
-        * Twitter thread
+        * Bulletin - create a pull request
+        * Twitter thread 
         * Instagram post
         * Reddit post
-        * Developer news letter
+        * Developer newsletter (@ major releases)
         * YouTube video (@ major releases)
         * Blog post (@ major releases)
-    7. [ ] Update bulletin in release branch
-    8. [ ] Create draft release for peer review
+    8. [ ] Update bulletin in the release branch 
+    9. [ ] Create a pre-release for peer review. You need to publish it otherwise peers won't see it
 2. [ ] Publish 🚀
     1. [ ] Merge release branch into `stable`
     2. [ ] Tag & publish release v0.x.x
@@ -74,6 +76,7 @@ Handling pull requests and other types of contributions is not the sole responsi
     - Click `Generate Release Notes`
     - Use common sense to pick out user-oriented highlights
     - Combine write-up about highlights etc. and the generated release notes and create a draft release
+      - If you want others to review the release, you need to publish it, so append "-pre" or "-alpha" and mark it as a pre-release
     - Update BULLETIN.md with the most important *user-oriented* highlights and changes since the last major version
 
   - Coordinate community testing in [*#🧪 • testing*](https://discord.com/channels/1092243196446249134/1098217450425827468):
