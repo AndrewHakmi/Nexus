@@ -81,17 +81,17 @@ This page contains solutions to common issues and errors, try to find your probl
 
 <details>
   <summary>openai.error.InvalidRequestError: The model: gpt-4 does not exist:</summary>
-  You do not have api access to GPT-4. Set your smart_LLM_model to gpt-3.5-turbo and your token_limit to 4000. 
+  You do not have api access to GPT-4. Set your smart_LLM to gpt-3.5-turbo and your token_limit to 4000. 
   Also you will need to join the gpt4 waitlist here : https://openai.com/waitlist/gpt-4-api. Your <b>.env</b> 
   should look like:<br>
   ####<br>
   ### LLM MODELS<br>
   ####<br>
   <br>
-  ## SMART_LLM_MODEL - Smart language model (Default: gpt-4)<br>
-  ## FAST_LLM_MODEL - Fast language model (Default: gpt-3.5-turbo)<br>
-  SMART_LLM_MODEL=gpt-3.5-turbo<br>
-  FAST_LLM_MODEL=gpt-3.5-turbo<br>
+  ## SMART_LLM - Smart language model (Default: gpt-4)<br>
+  ## FAST_LLM - Fast language model (Default: gpt-3.5-turbo)<br>
+  SMART_LLM=gpt-3.5-turbo<br>
+  FAST_LLM=gpt-3.5-turbo<br>
   <br>
   ### LLM MODEL SETTINGS<br>
   ## FAST_TOKEN_LIMIT - Fast token limit for OpenAI (Default: 4000)<br>
