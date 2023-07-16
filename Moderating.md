@@ -1,7 +1,7 @@
 ## 👮‍♀️ Community Moderators
 
-If you are keen to operate as a moderator of our [Discord](https://discord.gg/autogpt) community, chat with one our our friendly mods (look down the guild-members list on the right for the badge).
-
+If you are keen to operate as a moderator of our [Discord](https://discord.gg/autogpt) community, chat with one our our
+friendly mods (look down the guild-members list on the right for the badge).
 
 ## ⛨ Operations of a Discord community moderator
 

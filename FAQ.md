@@ -1,8 +1,10 @@
 ## This is the newly created Frequently Asked Questions page
-This page contains solutions to common issues and errors, try to find your problem here before posting on discord or filing an issue on github. If you have a solution to an issue not mentioned here, please post these in **[Common issues](https://discord.com/channels/1092243196446249134/1109907151419347044)** discord channel.
+
+This page contains solutions to common issues and errors, try to find your problem here before posting on discord or
+filing an issue on github. If you have a solution to an issue not mentioned here, please post these in *
+*[Common issues](https://discord.com/channels/1092243196446249134/1109907151419347044)** discord channel.
 
 > NOTE: For information on how to install or setup Auto-GPT revert to the **[docs](https://docs.agpt.co/)**
-
 
 ## Common Questions:
 
@@ -39,7 +41,6 @@ This page contains solutions to common issues and errors, try to find your probl
   ### AZURE<br>
   # moved to azure.yaml.template<br>
 </details>
-
 
 ## Common Issues:
 
